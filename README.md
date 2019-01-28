@@ -170,3 +170,5 @@ See `LICENSE.md` in the repository root.
 - Fix the encoding issue when reading config files with non-ASCII
 
 - Bump the Docker base image to get the latest security patches
+
+- Improve error message when the required env var is not set
