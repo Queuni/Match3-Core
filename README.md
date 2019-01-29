@@ -174,3 +174,5 @@ See `LICENSE.md` in the repository root.
 - Improve error message when the required env var is not set
 
 - Remove the experimental feature that didn't make it into the release
+
+- Refactor config loading into a separate module for better testability

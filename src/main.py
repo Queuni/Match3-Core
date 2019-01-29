@@ -106,3 +106,5 @@
 # Improve error message when the required env var is not set
 
 # Simplify the validation flow by reusing the same schema
+
+# Handle connection reset by the peer without crashing the worker
