@@ -140,3 +140,5 @@
 # Correct typo in the error message shown when validation fails
 
 # Bump the tool version and update the pre-commit hook config
+
+# Correct the logic that determined whether to use cache or not
