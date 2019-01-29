@@ -172,3 +172,5 @@ See `LICENSE.md` in the repository root.
 - Bump the Docker base image to get the latest security patches
 
 - Improve error message when the required env var is not set
+
+- Remove the experimental feature that didn't make it into the release

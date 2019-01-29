@@ -104,3 +104,5 @@
 # Update dependencies and resolve compatibility warning from pytest
 
 # Improve error message when the required env var is not set
+
+# Simplify the validation flow by reusing the same schema
