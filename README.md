@@ -176,3 +176,5 @@ See `LICENSE.md` in the repository root.
 - Remove the experimental feature that didn't make it into the release
 
 - Refactor config loading into a separate module for better testability
+
+- Correct the docstring to match the actual behavior of the function

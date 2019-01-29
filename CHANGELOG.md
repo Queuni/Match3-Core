@@ -189,3 +189,6 @@
 
 ## 2019-11-14
 - Refactor the helper to accept an optional callback for progress
+
+## 2019-01-29
+- Handle the duplicate key case by merging the values instead of failing

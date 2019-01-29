@@ -144,3 +144,5 @@
 # Remove the temporary debug endpoint before the release
 
 # Adjust the threshold so we only log when it's actually an issue
+
+# Fix incorrect type hint that was causing mypy to fail in CI
