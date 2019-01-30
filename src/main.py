@@ -108,3 +108,5 @@
 # Simplify the validation flow by reusing the same schema
 
 # Handle connection reset by the peer without crashing the worker
+
+# Adjust the threshold so we only log when it's actually an issue

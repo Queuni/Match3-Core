@@ -144,3 +144,5 @@
 # Correct the logic that determined whether to use cache or not
 
 # Update the changelog with the fixes included in this release
+
+# Handle connection reset by the peer without crashing the worker
