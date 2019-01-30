@@ -180,3 +180,5 @@ See `LICENSE.md` in the repository root.
 - Correct the docstring to match the actual behavior of the function
 
 - Add a small delay between retries to avoid thundering herd
+
+- Refactor config loading into a separate module for better testability

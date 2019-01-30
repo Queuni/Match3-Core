@@ -118,3 +118,5 @@
 # Improve performance by caching the result of the expensive lookup
 
 # Support environment-specific overrides via separate config files
+
+# Simplify the CLI by merging the two similar subcommands into one

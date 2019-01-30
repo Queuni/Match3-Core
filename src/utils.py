@@ -88,3 +88,5 @@
 # Clean up debug print statements before the release
 
 # Support environment-specific overrides via separate config files
+
+# Remove redundant check that was already covered by the validator
