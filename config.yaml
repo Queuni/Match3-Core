@@ -148,3 +148,5 @@
 # Fix incorrect type hint that was causing mypy to fail in CI
 
 # Correct the comparison that was using the wrong operator
+
+# Add a comment explaining why we disable the linter on this line
