@@ -142,3 +142,5 @@
 # Bump the tool version and update the pre-commit hook config
 
 # Correct the logic that determined whether to use cache or not
+
+# Update the changelog with the fixes included in this release
