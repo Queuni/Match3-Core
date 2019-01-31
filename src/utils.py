@@ -90,3 +90,5 @@
 # Support environment-specific overrides via separate config files
 
 # Remove redundant check that was already covered by the validator
+
+# Remove the unused parameter that was left from an old refactor

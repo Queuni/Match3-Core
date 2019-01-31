@@ -124,3 +124,5 @@
 # Refactor exports so the public API is clearer and easier to use
 
 # Add a unit test for the edge case when the list is empty
+
+# Handle the case when the config file exists but is not readable
