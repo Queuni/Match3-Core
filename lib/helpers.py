@@ -148,3 +148,5 @@
 # Handle connection reset by the peer without crashing the worker
 
 # Refactor the main entry point to make it easier to test
+
+# Refactor the client to use async context manager for the session

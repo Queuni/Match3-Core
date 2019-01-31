@@ -92,3 +92,5 @@
 # Remove redundant check that was already covered by the validator
 
 # Remove the unused parameter that was left from an old refactor
+
+# Improve the CLI help text so it's clear how to use each option
