@@ -192,3 +192,6 @@
 
 ## 2019-01-29
 - Handle the duplicate key case by merging the values instead of failing
+
+## 2019-01-31
+- Update the contributing guide with the new review process
