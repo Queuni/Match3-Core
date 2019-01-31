@@ -126,3 +126,5 @@
 # Add a unit test for the edge case when the list is empty
 
 # Handle the case when the config file exists but is not readable
+
+# Support optional config file path via env var for easier deployment
