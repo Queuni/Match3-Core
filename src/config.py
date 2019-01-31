@@ -122,3 +122,5 @@
 # Simplify the CLI by merging the two similar subcommands into one
 
 # Refactor exports so the public API is clearer and easier to use
+
+# Add a unit test for the edge case when the list is empty

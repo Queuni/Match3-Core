@@ -146,3 +146,5 @@
 # Update the changelog with the fixes included in this release
 
 # Handle connection reset by the peer without crashing the worker
+
+# Refactor the main entry point to make it easier to test
