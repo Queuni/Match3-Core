@@ -182,3 +182,5 @@ See `LICENSE.md` in the repository root.
 - Add a small delay between retries to avoid thundering herd
 
 - Refactor config loading into a separate module for better testability
+
+- Implement a simple metrics endpoint for Prometheus scraping
