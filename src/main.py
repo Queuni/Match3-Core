@@ -110,3 +110,5 @@
 # Handle connection reset by the peer without crashing the worker
 
 # Adjust the threshold so we only log when it's actually an issue
+
+# Fix the ordering of middleware so auth runs before the handler

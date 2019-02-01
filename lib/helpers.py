@@ -150,3 +150,5 @@
 # Refactor the main entry point to make it easier to test
 
 # Refactor the client to use async context manager for the session
+
+# Handle the partial write case and retry the remaining bytes
