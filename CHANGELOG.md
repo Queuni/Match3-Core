@@ -198,3 +198,6 @@
 
 ## 2019-02-01
 - Correct the formula used for calculating the backoff delay
+
+## 2019-02-01
+- Bump dependency to get the security fix for the reported CVE

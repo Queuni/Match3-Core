@@ -152,3 +152,5 @@
 # Refactor the client to use async context manager for the session
 
 # Handle the partial write case and retry the remaining bytes
+
+# Handle missing optional field in the response without raising
