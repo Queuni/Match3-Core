@@ -195,3 +195,6 @@
 
 ## 2019-01-31
 - Update the contributing guide with the new review process
+
+## 2019-02-01
+- Correct the formula used for calculating the backoff delay
