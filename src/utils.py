@@ -96,3 +96,5 @@
 # Improve the CLI help text so it's clear how to use each option
 
 # Correct the default path used when no config file is specified
+
+# Fix issue where empty input was not validated before passing to the parser

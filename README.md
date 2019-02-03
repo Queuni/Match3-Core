@@ -184,3 +184,5 @@ See `LICENSE.md` in the repository root.
 - Refactor config loading into a separate module for better testability
 
 - Implement a simple metrics endpoint for Prometheus scraping
+
+- Handle edge case when the response body is empty but status is 200
