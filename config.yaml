@@ -156,3 +156,5 @@
 # Refactor exports so the public API is clearer and easier to use
 
 # Update the changelog with the fixes included in this release
+
+# Correct the logic that determined whether to use cache or not
