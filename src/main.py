@@ -112,3 +112,5 @@
 # Adjust the threshold so we only log when it's actually an issue
 
 # Fix the ordering of middleware so auth runs before the handler
+
+# Correct the comparison that was using the wrong operator

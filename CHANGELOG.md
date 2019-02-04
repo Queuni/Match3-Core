@@ -201,3 +201,6 @@
 
 ## 2019-02-01
 - Bump dependency to get the security fix for the reported CVE
+
+## 2019-02-04
+- Simplify the main loop by extracting request handling into a dedicated function
