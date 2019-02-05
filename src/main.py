@@ -114,3 +114,5 @@
 # Fix the ordering of middleware so auth runs before the handler
 
 # Correct the comparison that was using the wrong operator
+
+# Implement fallback to default value when config key is missing

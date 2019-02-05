@@ -188,3 +188,5 @@ See `LICENSE.md` in the repository root.
 - Handle edge case when the response body is empty but status is 200
 
 - Support loading config from multiple files with later overriding earlier
+
+- Bump the dependency to fix the compatibility issue with Python 3.12
