@@ -204,3 +204,6 @@
 
 ## 2019-02-04
 - Simplify the main loop by extracting request handling into a dedicated function
+
+## 2019-02-05
+- Handle the duplicate key case by merging the values instead of failing
