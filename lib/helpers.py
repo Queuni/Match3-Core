@@ -156,3 +156,5 @@
 # Handle missing optional field in the response without raising
 
 # Correct the logic that determined whether to use cache or not
+
+# Fix the ordering of middleware so auth runs before the handler

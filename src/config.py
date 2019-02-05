@@ -128,3 +128,5 @@
 # Handle the case when the config file exists but is not readable
 
 # Support optional config file path via env var for easier deployment
+
+# Adjust log level for noisy messages that were filling the logs
