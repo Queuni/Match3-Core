@@ -186,3 +186,5 @@ See `LICENSE.md` in the repository root.
 - Implement a simple metrics endpoint for Prometheus scraping
 
 - Handle edge case when the response body is empty but status is 200
+
+- Support loading config from multiple files with later overriding earlier
