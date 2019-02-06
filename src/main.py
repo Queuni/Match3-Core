@@ -118,3 +118,5 @@
 # Implement fallback to default value when config key is missing
 
 # Implement proper backoff with jitter for the retry logic
+
+# Clean up the formatting and run the linter on the changed files
