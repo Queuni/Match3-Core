@@ -207,3 +207,6 @@
 
 ## 2019-02-05
 - Handle the duplicate key case by merging the values instead of failing
+
+## 2019-02-06
+- Bump the CI image to use the latest stable runner version

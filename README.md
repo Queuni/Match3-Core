@@ -190,3 +190,5 @@ See `LICENSE.md` in the repository root.
 - Support loading config from multiple files with later overriding earlier
 
 - Bump the dependency to fix the compatibility issue with Python 3.12
+
+- Bump the library version and pin the dependency in requirements

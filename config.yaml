@@ -158,3 +158,5 @@
 # Update the changelog with the fixes included in this release
 
 # Correct the logic that determined whether to use cache or not
+
+# Simplify the auth flow by using a single token source
