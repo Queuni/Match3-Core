@@ -162,3 +162,5 @@
 # Simplify the auth flow by using a single token source
 
 # Implement a simple metrics endpoint for Prometheus scraping
+
+# Implement proper cleanup of resources when the process receives SIGTERM

@@ -130,3 +130,5 @@
 # Support optional config file path via env var for easier deployment
 
 # Adjust log level for noisy messages that were filling the logs
+
+# Remove hardcoded credentials and move to env-based configuration
