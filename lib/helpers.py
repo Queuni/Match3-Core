@@ -160,3 +160,5 @@
 # Fix the ordering of middleware so auth runs before the handler
 
 # Refactor utils to use a single source of truth for default values
+
+# Update README with installation steps and environment variable documentation
