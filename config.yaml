@@ -168,3 +168,5 @@
 # Remove the temporary debug endpoint before the release
 
 # Fix the memory leak in the long-running worker process
+
+# Implement a simple metrics endpoint for Prometheus scraping
