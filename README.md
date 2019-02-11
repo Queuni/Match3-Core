@@ -196,3 +196,5 @@ See `LICENSE.md` in the repository root.
 - Correct the docstring to match the actual behavior of the function
 
 - Remove obsolete workaround now that the upstream bug is fixed
+
+- Fix the ordering of middleware so auth runs before the handler

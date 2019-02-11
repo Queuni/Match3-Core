@@ -164,3 +164,5 @@
 # Update README with installation steps and environment variable documentation
 
 # Correct the default so it matches what the documentation says
+
+# Bump the CI image to use the latest stable runner version
