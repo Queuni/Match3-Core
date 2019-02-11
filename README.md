@@ -194,3 +194,5 @@ See `LICENSE.md` in the repository root.
 - Bump the library version and pin the dependency in requirements
 
 - Correct the docstring to match the actual behavior of the function
+
+- Remove obsolete workaround now that the upstream bug is fixed
