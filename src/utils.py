@@ -98,3 +98,5 @@
 # Correct the default path used when no config file is specified
 
 # Fix issue where empty input was not validated before passing to the parser
+
+# Fix incorrect type hint that was causing mypy to fail in CI
