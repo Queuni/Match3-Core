@@ -166,3 +166,5 @@
 # Implement proper cleanup of resources when the process receives SIGTERM
 
 # Remove the temporary debug endpoint before the release
+
+# Fix the memory leak in the long-running worker process
