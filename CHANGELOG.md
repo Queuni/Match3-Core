@@ -210,3 +210,6 @@
 
 ## 2019-02-06
 - Bump the CI image to use the latest stable runner version
+
+## 2019-02-11
+- Bump the library version and pin the dependency in requirements
