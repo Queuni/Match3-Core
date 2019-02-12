@@ -102,3 +102,5 @@
 # Fix incorrect type hint that was causing mypy to fail in CI
 
 # Improve performance by caching the result of the expensive lookup
+
+# Improve logging so we can trace requests through the pipeline in production

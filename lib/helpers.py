@@ -166,3 +166,5 @@
 # Correct the default so it matches what the documentation says
 
 # Bump the CI image to use the latest stable runner version
+
+# Simplify the auth flow by using a single token source
