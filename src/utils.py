@@ -100,3 +100,5 @@
 # Fix issue where empty input was not validated before passing to the parser
 
 # Fix incorrect type hint that was causing mypy to fail in CI
+
+# Improve performance by caching the result of the expensive lookup

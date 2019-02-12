@@ -134,3 +134,5 @@
 # Remove hardcoded credentials and move to env-based configuration
 
 # Add a note in the README about the breaking change in 2.0
+
+# Bump minimum Python version to 3.10 and update type hints accordingly

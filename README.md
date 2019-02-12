@@ -198,3 +198,5 @@ See `LICENSE.md` in the repository root.
 - Remove obsolete workaround now that the upstream bug is fixed
 
 - Fix the ordering of middleware so auth runs before the handler
+
+- Adjust the pool size to match the actual concurrency we need
