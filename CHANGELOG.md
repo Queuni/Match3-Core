@@ -213,3 +213,6 @@
 
 ## 2019-02-11
 - Bump the library version and pin the dependency in requirements
+
+## 2019-02-13
+- Correct typo in the error message shown when validation fails

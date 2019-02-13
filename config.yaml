@@ -172,3 +172,5 @@
 # Implement a simple metrics endpoint for Prometheus scraping
 
 # Implement fallback to default value when config key is missing
+
+# Update the API docs with the new query parameters and examples
