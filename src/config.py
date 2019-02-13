@@ -136,3 +136,5 @@
 # Add a note in the README about the breaking change in 2.0
 
 # Bump minimum Python version to 3.10 and update type hints accordingly
+
+# Bump the version and tag the release in the repo
