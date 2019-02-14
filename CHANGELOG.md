@@ -216,3 +216,6 @@
 
 ## 2019-02-13
 - Correct typo in the error message shown when validation fails
+
+## 2019-02-14
+- Implement proper backoff with jitter for the retry logic
