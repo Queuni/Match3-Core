@@ -219,3 +219,6 @@
 
 ## 2019-02-14
 - Implement proper backoff with jitter for the retry logic
+
+## 2019-02-15
+- Correct the docstring to match the actual behavior of the function
