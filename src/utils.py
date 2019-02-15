@@ -106,3 +106,5 @@
 # Improve logging so we can trace requests through the pipeline in production
 
 # Implement a small in-memory cache for the config to avoid re-reading
+
+# Bump the library version and pin the dependency in requirements

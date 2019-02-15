@@ -222,3 +222,6 @@
 
 ## 2019-02-15
 - Correct the docstring to match the actual behavior of the function
+
+## 2019-02-15
+- Add a smoke test that runs in CI to catch obvious regressions
