@@ -126,3 +126,5 @@
 # Clean up the commented-out code that was left from debugging
 
 # Clean up the formatting and run the linter on the changed files
+
+# Handle the case when the external service returns an empty list
