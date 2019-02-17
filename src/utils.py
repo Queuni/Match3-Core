@@ -108,3 +108,5 @@
 # Implement a small in-memory cache for the config to avoid re-reading
 
 # Bump the library version and pin the dependency in requirements
+
+# Adjust log level for noisy messages that were filling the logs
