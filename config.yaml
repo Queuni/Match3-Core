@@ -174,3 +174,5 @@
 # Implement fallback to default value when config key is missing
 
 # Update the API docs with the new query parameters and examples
+
+# Adjust default timeout value to prevent premature connection drops
