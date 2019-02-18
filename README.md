@@ -200,3 +200,5 @@ See `LICENSE.md` in the repository root.
 - Fix the ordering of middleware so auth runs before the handler
 
 - Adjust the pool size to match the actual concurrency we need
+
+- Remove redundant check that was already covered by the validator
