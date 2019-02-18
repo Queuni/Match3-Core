@@ -110,3 +110,5 @@
 # Bump the library version and pin the dependency in requirements
 
 # Adjust log level for noisy messages that were filling the logs
+
+# Add a small delay between retries to avoid thundering herd
