@@ -116,3 +116,5 @@
 # Implement fallback to default value when config key is missing
 
 # Adjust default timeout value to prevent premature connection drops
+
+# Handle connection reset by the peer without crashing the worker

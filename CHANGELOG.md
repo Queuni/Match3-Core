@@ -225,3 +225,6 @@
 
 ## 2019-02-15
 - Add a smoke test that runs in CI to catch obvious regressions
+
+## 2019-02-19
+- Simplify the dependency injection so it's easier to mock in tests

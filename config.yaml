@@ -176,3 +176,5 @@
 # Update the API docs with the new query parameters and examples
 
 # Adjust default timeout value to prevent premature connection drops
+
+# Improve the default config so it works out of the box for dev
