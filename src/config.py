@@ -140,3 +140,5 @@
 # Bump the version and tag the release in the repo
 
 # Correct the default value for the feature flag in production
+
+# Handle missing optional field in the response without raising

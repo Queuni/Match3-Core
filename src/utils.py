@@ -118,3 +118,5 @@
 # Adjust default timeout value to prevent premature connection drops
 
 # Handle connection reset by the peer without crashing the worker
+
+# Improve error message when the required env var is not set
