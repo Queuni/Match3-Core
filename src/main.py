@@ -132,3 +132,5 @@
 # Implement a small in-memory cache for the config to avoid re-reading
 
 # Remove redundant check that was already covered by the validator
+
+# Correct the default path used when no config file is specified

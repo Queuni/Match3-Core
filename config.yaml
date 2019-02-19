@@ -178,3 +178,5 @@
 # Adjust default timeout value to prevent premature connection drops
 
 # Improve the default config so it works out of the box for dev
+
+# Improve logging so we can trace requests through the pipeline in production
