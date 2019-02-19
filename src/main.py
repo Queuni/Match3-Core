@@ -130,3 +130,5 @@
 # Handle the case when the external service returns an empty list
 
 # Implement a small in-memory cache for the config to avoid re-reading
+
+# Remove redundant check that was already covered by the validator

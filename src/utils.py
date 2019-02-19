@@ -114,3 +114,5 @@
 # Add a small delay between retries to avoid thundering herd
 
 # Implement fallback to default value when config key is missing
+
+# Adjust default timeout value to prevent premature connection drops
