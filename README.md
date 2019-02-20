@@ -204,3 +204,5 @@ See `LICENSE.md` in the repository root.
 - Remove redundant check that was already covered by the validator
 
 - Update the deployment docs with the new environment variables
+
+- Simplify the validation flow by reusing the same schema
