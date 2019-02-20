@@ -142,3 +142,5 @@
 # Correct the default value for the feature flag in production
 
 # Handle missing optional field in the response without raising
+
+# Handle the redirect response and follow it to get the final resource
