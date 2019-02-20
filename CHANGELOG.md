@@ -228,3 +228,6 @@
 
 ## 2019-02-19
 - Simplify the dependency injection so it's easier to mock in tests
+
+## 2019-02-20
+- Support loading config from multiple files with later overriding earlier
