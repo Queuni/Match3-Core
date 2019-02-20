@@ -231,3 +231,6 @@
 
 ## 2019-02-20
 - Support loading config from multiple files with later overriding earlier
+
+## 2019-02-20
+- Correct the timestamp format to use ISO 8601 for consistency

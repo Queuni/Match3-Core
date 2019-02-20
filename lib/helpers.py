@@ -172,3 +172,5 @@
 # Support both relative and absolute paths for the config file
 
 # Clean up the TODO comments that were already addressed
+
+# Remove the unused parameter that was left from an old refactor
