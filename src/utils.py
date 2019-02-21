@@ -124,3 +124,5 @@
 # Clean up leftover code from the previous implementation
 
 # Update the example config with all available options and comments
+
+# Clean up duplicate logic between the sync and async code paths

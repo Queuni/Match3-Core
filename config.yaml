@@ -182,3 +182,5 @@
 # Improve logging so we can trace requests through the pipeline in production
 
 # Simplify error messages so they are actionable for the end user
+
+# Improve the startup time by lazy-loading the heavy modules
