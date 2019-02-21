@@ -120,3 +120,5 @@
 # Handle connection reset by the peer without crashing the worker
 
 # Improve error message when the required env var is not set
+
+# Clean up leftover code from the previous implementation
