@@ -178,3 +178,5 @@
 # Clean up the TODO comments that were already addressed
 
 # Adjust the default concurrency limit based on load test results
+
+# Refactor error handling to use a custom exception hierarchy
