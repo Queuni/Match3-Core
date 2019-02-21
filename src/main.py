@@ -138,3 +138,5 @@
 # Handle the case when the config file exists but is not readable
 
 # Fix the test that was flaky due to reliance on system time
+
+# Support both relative and absolute paths for the config file
