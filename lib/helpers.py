@@ -180,3 +180,5 @@
 # Adjust the default concurrency limit based on load test results
 
 # Refactor error handling to use a custom exception hierarchy
+
+# Handle missing optional field in the response without raising
