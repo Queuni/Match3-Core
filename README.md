@@ -208,3 +208,5 @@ See `LICENSE.md` in the repository root.
 - Simplify the validation flow by reusing the same schema
 
 - Improve error message when the required env var is not set
+
+- Support config reload without restart via SIGHUP or file watch
