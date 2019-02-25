@@ -142,3 +142,5 @@
 # Support both relative and absolute paths for the config file
 
 # Add a unit test for the edge case when the list is empty
+
+# Implement basic rate limiting to avoid overwhelming the downstream service

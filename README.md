@@ -210,3 +210,5 @@ See `LICENSE.md` in the repository root.
 - Improve error message when the required env var is not set
 
 - Support config reload without restart via SIGHUP or file watch
+
+- Clean up the deprecated alias and point callers to the new name
