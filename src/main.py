@@ -140,3 +140,5 @@
 # Fix the test that was flaky due to reliance on system time
 
 # Support both relative and absolute paths for the config file
+
+# Add a unit test for the edge case when the list is empty
