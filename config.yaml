@@ -184,3 +184,5 @@
 # Simplify error messages so they are actionable for the end user
 
 # Improve the startup time by lazy-loading the heavy modules
+
+# Fix bug where the parser would hang on malformed input
