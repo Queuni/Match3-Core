@@ -144,3 +144,5 @@
 # Handle missing optional field in the response without raising
 
 # Handle the redirect response and follow it to get the final resource
+
+# Add a comment explaining why we disable the linter on this line

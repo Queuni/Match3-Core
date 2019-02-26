@@ -214,3 +214,5 @@ See `LICENSE.md` in the repository root.
 - Clean up the deprecated alias and point callers to the new name
 
 - Fix the test that was flaky due to reliance on system time
+
+- Clean up leftover code from the previous implementation
