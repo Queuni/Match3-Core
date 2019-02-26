@@ -144,3 +144,5 @@
 # Add a unit test for the edge case when the list is empty
 
 # Implement basic rate limiting to avoid overwhelming the downstream service
+
+# Refactor utils to use a single source of truth for default values
