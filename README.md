@@ -212,3 +212,5 @@ See `LICENSE.md` in the repository root.
 - Support config reload without restart via SIGHUP or file watch
 
 - Clean up the deprecated alias and point callers to the new name
+
+- Fix the test that was flaky due to reliance on system time

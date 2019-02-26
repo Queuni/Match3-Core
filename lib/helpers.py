@@ -184,3 +184,5 @@
 # Handle missing optional field in the response without raising
 
 # Correct the default value for the feature flag in production
+
+# Update dependencies and resolve compatibility warning from pytest
