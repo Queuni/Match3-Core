@@ -186,3 +186,5 @@
 # Correct the default value for the feature flag in production
 
 # Update dependencies and resolve compatibility warning from pytest
+
+# Bump the library version and pin the dependency in requirements

@@ -186,3 +186,5 @@
 # Improve the startup time by lazy-loading the heavy modules
 
 # Fix bug where the parser would hang on malformed input
+
+# Implement basic rate limiting to avoid overwhelming the downstream service
