@@ -136,3 +136,5 @@
 # Clean up the test fixtures and move shared data to a single file
 
 # Support passing secrets via a separate file for security
+
+# Bump the dependency to fix the compatibility issue with Python 3.12
