@@ -240,3 +240,6 @@
 
 ## 2019-02-28
 - Add a smoke test that runs in CI to catch obvious regressions
+
+## 2019-02-28
+- Support optional config file path via env var for easier deployment

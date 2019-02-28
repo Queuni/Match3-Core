@@ -146,3 +146,5 @@
 # Handle the redirect response and follow it to get the final resource
 
 # Add a comment explaining why we disable the linter on this line
+
+# Adjust the queue size to prevent drops under burst traffic
