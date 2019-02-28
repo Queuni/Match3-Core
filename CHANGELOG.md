@@ -237,3 +237,6 @@
 
 ## 2019-02-25
 - Handle the partial write case and retry the remaining bytes
+
+## 2019-02-28
+- Add a smoke test that runs in CI to catch obvious regressions
