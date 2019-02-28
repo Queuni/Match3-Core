@@ -216,3 +216,5 @@ See `LICENSE.md` in the repository root.
 - Fix the test that was flaky due to reliance on system time
 
 - Clean up leftover code from the previous implementation
+
+- Implement fallback to default value when config key is missing

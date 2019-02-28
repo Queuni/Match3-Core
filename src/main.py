@@ -148,3 +148,5 @@
 # Refactor utils to use a single source of truth for default values
 
 # Support custom headers in the client for API key or auth tokens
+
+# Adjust timeout and retry settings based on production observations
