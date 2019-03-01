@@ -150,3 +150,5 @@
 # Support custom headers in the client for API key or auth tokens
 
 # Adjust timeout and retry settings based on production observations
+
+# Simplify the CLI by merging the two similar subcommands into one
