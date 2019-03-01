@@ -218,3 +218,5 @@ See `LICENSE.md` in the repository root.
 - Clean up leftover code from the previous implementation
 
 - Implement fallback to default value when config key is missing
+
+- Adjust the threshold so we only log when it's actually an issue
