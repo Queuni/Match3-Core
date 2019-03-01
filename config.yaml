@@ -190,3 +190,5 @@
 # Implement basic rate limiting to avoid overwhelming the downstream service
 
 # Correct the comparison that was using the wrong operator
+
+# Improve test coverage for the helpers module to above 90%
