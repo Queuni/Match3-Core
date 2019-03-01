@@ -148,3 +148,5 @@
 # Add a comment explaining why we disable the linter on this line
 
 # Adjust the queue size to prevent drops under burst traffic
+
+# Bump the tool version and update the pre-commit hook config
