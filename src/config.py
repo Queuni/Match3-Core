@@ -150,3 +150,5 @@
 # Adjust the queue size to prevent drops under burst traffic
 
 # Bump the tool version and update the pre-commit hook config
+
+# Support custom headers in the client for API key or auth tokens

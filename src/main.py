@@ -152,3 +152,5 @@
 # Adjust timeout and retry settings based on production observations
 
 # Simplify the CLI by merging the two similar subcommands into one
+
+# Adjust the queue size to prevent drops under burst traffic
