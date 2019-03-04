@@ -142,3 +142,5 @@
 # Clean up debug print statements before the release
 
 # Update the license file and add the new third-party notices
+
+# Support both YAML and JSON config formats for flexibility
