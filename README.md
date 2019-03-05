@@ -226,3 +226,5 @@ See `LICENSE.md` in the repository root.
 - Improve error message when the required env var is not set
 
 - Correct the default path used when no config file is specified
+
+- Update the contributing guide with the new review process

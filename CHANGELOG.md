@@ -246,3 +246,6 @@
 
 ## 2019-03-05
 - Bump minimum Python version to 3.10 and update type hints accordingly
+
+## 2019-03-05
+- Correct the comparison that was using the wrong operator
