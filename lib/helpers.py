@@ -192,3 +192,5 @@
 # Clean up the deprecated alias and point callers to the new name
 
 # Clean up the deprecated alias and point callers to the new name
+
+# Improve performance by caching the result of the expensive lookup

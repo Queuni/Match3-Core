@@ -220,3 +220,5 @@ See `LICENSE.md` in the repository root.
 - Implement fallback to default value when config key is missing
 
 - Adjust the threshold so we only log when it's actually an issue
+
+- Update documentation to reflect the new API and usage examples
