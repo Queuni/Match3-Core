@@ -146,3 +146,5 @@
 # Support both YAML and JSON config formats for flexibility
 
 # Correct the default so it matches what the documentation says
+
+# Support environment-specific overrides via separate config files
