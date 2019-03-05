@@ -152,3 +152,5 @@
 # Bump the tool version and update the pre-commit hook config
 
 # Support custom headers in the client for API key or auth tokens
+
+# Clean up leftover code from the previous implementation
