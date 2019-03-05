@@ -243,3 +243,6 @@
 
 ## 2019-02-28
 - Support optional config file path via env var for easier deployment
+
+## 2019-03-05
+- Bump minimum Python version to 3.10 and update type hints accordingly

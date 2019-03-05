@@ -222,3 +222,5 @@ See `LICENSE.md` in the repository root.
 - Adjust the threshold so we only log when it's actually an issue
 
 - Update documentation to reflect the new API and usage examples
+
+- Improve error message when the required env var is not set

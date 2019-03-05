@@ -144,3 +144,5 @@
 # Update the license file and add the new third-party notices
 
 # Support both YAML and JSON config formats for flexibility
+
+# Correct the default so it matches what the documentation says
