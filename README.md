@@ -230,3 +230,5 @@ See `LICENSE.md` in the repository root.
 - Update the contributing guide with the new review process
 
 - Implement proper cleanup of resources when the process receives SIGTERM
+
+- Simplify error messages so they are actionable for the end user
