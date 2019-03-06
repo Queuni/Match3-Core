@@ -249,3 +249,6 @@
 
 ## 2019-03-05
 - Correct the comparison that was using the wrong operator
+
+## 2019-03-06
+- Clean up the formatting and run the linter on the changed files
