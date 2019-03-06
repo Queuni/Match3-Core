@@ -228,3 +228,5 @@ See `LICENSE.md` in the repository root.
 - Correct the default path used when no config file is specified
 
 - Update the contributing guide with the new review process
+
+- Implement proper cleanup of resources when the process receives SIGTERM

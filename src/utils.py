@@ -148,3 +148,5 @@
 # Correct the default so it matches what the documentation says
 
 # Support environment-specific overrides via separate config files
+
+# Add a note in the README about the breaking change in 2.0

@@ -252,3 +252,6 @@
 
 ## 2019-03-06
 - Clean up the formatting and run the linter on the changed files
+
+## 2019-03-06
+- Add validation for the config schema before applying settings
