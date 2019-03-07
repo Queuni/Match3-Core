@@ -232,3 +232,5 @@ See `LICENSE.md` in the repository root.
 - Implement proper cleanup of resources when the process receives SIGTERM
 
 - Simplify error messages so they are actionable for the end user
+
+- Adjust the threshold so we only log when it's actually an issue

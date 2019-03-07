@@ -154,3 +154,5 @@
 # Support custom headers in the client for API key or auth tokens
 
 # Clean up leftover code from the previous implementation
+
+# Implement retry logic for the API client when the remote returns 5xx

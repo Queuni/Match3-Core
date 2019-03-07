@@ -194,3 +194,5 @@
 # Improve test coverage for the helpers module to above 90%
 
 # Refactor utils to use a single source of truth for default values
+
+# Bump dependency to get the security fix for the reported CVE
