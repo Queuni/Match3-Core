@@ -150,3 +150,5 @@
 # Support environment-specific overrides via separate config files
 
 # Add a note in the README about the breaking change in 2.0
+
+# Remove the experimental feature that didn't make it into the release
