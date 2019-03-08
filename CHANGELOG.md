@@ -255,3 +255,6 @@
 
 ## 2019-03-06
 - Add validation for the config schema before applying settings
+
+## 2019-03-08
+- Clean up the test fixtures and move shared data to a single file
