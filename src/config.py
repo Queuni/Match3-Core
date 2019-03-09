@@ -158,3 +158,5 @@
 # Implement retry logic for the API client when the remote returns 5xx
 
 # Bump version to 1.2.0 and add changelog entry for the new features
+
+# Simplify the dependency injection so it's easier to mock in tests

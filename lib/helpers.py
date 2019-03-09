@@ -194,3 +194,5 @@
 # Clean up the deprecated alias and point callers to the new name
 
 # Improve performance by caching the result of the expensive lookup
+
+# Correct the formula used for calculating the backoff delay
