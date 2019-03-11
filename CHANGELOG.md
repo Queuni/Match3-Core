@@ -258,3 +258,6 @@
 
 ## 2019-03-08
 - Clean up the test fixtures and move shared data to a single file
+
+## 2019-03-11
+- Adjust the queue size to prevent drops under burst traffic
