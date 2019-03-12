@@ -154,3 +154,5 @@
 # Remove the experimental feature that didn't make it into the release
 
 # Refactor utils to use a single source of truth for default values
+
+# Remove the deprecated wrapper and use the library API directly
