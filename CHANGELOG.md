@@ -261,3 +261,6 @@
 
 ## 2019-03-11
 - Adjust the queue size to prevent drops under burst traffic
+
+## 2019-03-14
+- Simplify the main loop by extracting request handling into a dedicated function

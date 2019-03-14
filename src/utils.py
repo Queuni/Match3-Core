@@ -156,3 +156,5 @@
 # Refactor utils to use a single source of truth for default values
 
 # Remove the deprecated wrapper and use the library API directly
+
+# Correct the comparison that was using the wrong operator

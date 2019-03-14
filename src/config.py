@@ -162,3 +162,5 @@
 # Simplify the dependency injection so it's easier to mock in tests
 
 # Bump dependency to get the security fix for the reported CVE
+
+# Implement basic rate limiting to avoid overwhelming the downstream service
