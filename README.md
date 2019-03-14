@@ -236,3 +236,5 @@ See `LICENSE.md` in the repository root.
 - Adjust the threshold so we only log when it's actually an issue
 
 - Improve error message when the required env var is not set
+
+- Update the deployment docs with the new environment variables

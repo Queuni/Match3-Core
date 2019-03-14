@@ -200,3 +200,5 @@
 # Improve the default config so it works out of the box for dev
 
 # Correct the formula used for calculating the backoff delay
+
+# Clean up the deprecated alias and point callers to the new name
