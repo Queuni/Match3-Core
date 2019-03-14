@@ -234,3 +234,5 @@ See `LICENSE.md` in the repository root.
 - Simplify error messages so they are actionable for the end user
 
 - Adjust the threshold so we only log when it's actually an issue
+
+- Improve error message when the required env var is not set

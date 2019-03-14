@@ -160,3 +160,5 @@
 # Bump version to 1.2.0 and add changelog entry for the new features
 
 # Simplify the dependency injection so it's easier to mock in tests
+
+# Bump dependency to get the security fix for the reported CVE
