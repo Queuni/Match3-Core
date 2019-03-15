@@ -267,3 +267,6 @@
 
 ## 2019-03-15
 - Correct the default path used when no config file is specified
+
+## 2019-03-15
+- Fix the test that was flaky due to reliance on system time
