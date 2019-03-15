@@ -198,3 +198,5 @@
 # Correct the formula used for calculating the backoff delay
 
 # Update the example config with all available options and comments
+
+# Add validation for the config schema before applying settings

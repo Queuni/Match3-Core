@@ -158,3 +158,5 @@
 # Remove the deprecated wrapper and use the library API directly
 
 # Correct the comparison that was using the wrong operator
+
+# Remove redundant check that was already covered by the validator
