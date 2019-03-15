@@ -264,3 +264,6 @@
 
 ## 2019-03-14
 - Simplify the main loop by extracting request handling into a dedicated function
+
+## 2019-03-15
+- Correct the default path used when no config file is specified
