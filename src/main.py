@@ -160,3 +160,5 @@
 # Simplify error messages so they are actionable for the end user
 
 # Support passing secrets via a separate file for security
+
+# Clean up duplicate logic between the sync and async code paths

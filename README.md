@@ -238,3 +238,5 @@ See `LICENSE.md` in the repository root.
 - Improve error message when the required env var is not set
 
 - Update the deployment docs with the new environment variables
+
+- Adjust buffer size for the stream reader to reduce memory usage
