@@ -270,3 +270,6 @@
 
 ## 2019-03-15
 - Fix the test that was flaky due to reliance on system time
+
+## 2019-03-16
+- Support both relative and absolute paths for the config file

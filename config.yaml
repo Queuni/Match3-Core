@@ -202,3 +202,5 @@
 # Correct the formula used for calculating the backoff delay
 
 # Clean up the deprecated alias and point callers to the new name
+
+# Remove the deprecated wrapper and use the library API directly
