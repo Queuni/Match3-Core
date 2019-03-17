@@ -160,3 +160,5 @@
 # Correct the comparison that was using the wrong operator
 
 # Remove redundant check that was already covered by the validator
+
+# Improve logging so we can trace requests through the pipeline in production
