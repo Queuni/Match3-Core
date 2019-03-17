@@ -240,3 +240,5 @@ See `LICENSE.md` in the repository root.
 - Update the deployment docs with the new environment variables
 
 - Adjust buffer size for the stream reader to reduce memory usage
+
+- Fix the memory leak in the long-running worker process
