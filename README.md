@@ -244,3 +244,5 @@ See `LICENSE.md` in the repository root.
 - Fix the memory leak in the long-running worker process
 
 - Correct the docstring to match the actual behavior of the function
+
+- Add a unit test for the edge case when the list is empty

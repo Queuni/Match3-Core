@@ -170,3 +170,5 @@
 # Add a comment explaining why we disable the linter on this line
 
 # Adjust the batch size to reduce memory usage on large inputs
+
+# Improve the startup time by lazy-loading the heavy modules

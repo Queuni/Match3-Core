@@ -210,3 +210,5 @@
 # Improve the default config so it works out of the box for dev
 
 # Support passing options through the config file as well as CLI
+
+# Bump minimum Python version to 3.10 and update type hints accordingly
