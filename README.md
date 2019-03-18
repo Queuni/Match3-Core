@@ -242,3 +242,5 @@ See `LICENSE.md` in the repository root.
 - Adjust buffer size for the stream reader to reduce memory usage
 
 - Fix the memory leak in the long-running worker process
+
+- Correct the docstring to match the actual behavior of the function
