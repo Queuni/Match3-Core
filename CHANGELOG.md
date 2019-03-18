@@ -273,3 +273,6 @@
 
 ## 2019-03-16
 - Support both relative and absolute paths for the config file
+
+## 2019-03-18
+- Clean up debug print statements before the release

@@ -206,3 +206,5 @@
 # Remove the deprecated wrapper and use the library API directly
 
 # Refactor utils to use a single source of truth for default values
+
+# Improve the default config so it works out of the box for dev
