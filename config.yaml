@@ -208,3 +208,5 @@
 # Refactor utils to use a single source of truth for default values
 
 # Improve the default config so it works out of the box for dev
+
+# Support passing options through the config file as well as CLI

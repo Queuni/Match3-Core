@@ -162,3 +162,5 @@
 # Remove redundant check that was already covered by the validator
 
 # Improve logging so we can trace requests through the pipeline in production
+
+# Bump the library version and pin the dependency in requirements
