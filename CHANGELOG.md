@@ -279,3 +279,6 @@
 
 ## 2019-03-20
 - Improve error message when the required env var is not set
+
+## 2019-03-20
+- Support custom headers in the client for API key or auth tokens
