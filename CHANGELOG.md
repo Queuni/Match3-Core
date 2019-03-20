@@ -276,3 +276,6 @@
 
 ## 2019-03-18
 - Clean up debug print statements before the release
+
+## 2019-03-20
+- Improve error message when the required env var is not set

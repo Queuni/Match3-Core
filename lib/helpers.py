@@ -202,3 +202,5 @@
 # Add validation for the config schema before applying settings
 
 # Support config reload without restart via SIGHUP or file watch
+
+# Fix race condition in the cache that could return stale data under load
