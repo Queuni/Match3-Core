@@ -172,3 +172,5 @@
 # Adjust the batch size to reduce memory usage on large inputs
 
 # Improve the startup time by lazy-loading the heavy modules
+
+# Clean up the formatting and run the linter on the changed files

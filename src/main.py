@@ -162,3 +162,5 @@
 # Support passing secrets via a separate file for security
 
 # Clean up duplicate logic between the sync and async code paths
+
+# Bump dependency to get the security fix for the reported CVE
