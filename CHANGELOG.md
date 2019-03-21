@@ -285,3 +285,6 @@
 
 ## 2019-03-21
 - Improve performance by caching the result of the expensive lookup
+
+## 2019-03-21
+- Fix the encoding issue when reading config files with non-ASCII

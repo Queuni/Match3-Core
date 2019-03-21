@@ -164,3 +164,5 @@
 # Improve logging so we can trace requests through the pipeline in production
 
 # Bump the library version and pin the dependency in requirements
+
+# Fix issue where empty input was not validated before passing to the parser
