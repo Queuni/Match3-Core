@@ -166,3 +166,5 @@
 # Bump the library version and pin the dependency in requirements
 
 # Fix issue where empty input was not validated before passing to the parser
+
+# Adjust the queue size to prevent drops under burst traffic
