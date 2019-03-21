@@ -288,3 +288,6 @@
 
 ## 2019-03-21
 - Fix the encoding issue when reading config files with non-ASCII
+
+## 2019-03-21
+- Simplify the config validation by using a declarative schema

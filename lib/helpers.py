@@ -204,3 +204,5 @@
 # Support config reload without restart via SIGHUP or file watch
 
 # Fix race condition in the cache that could return stale data under load
+
+# Clean up the commented-out code that was left from debugging
