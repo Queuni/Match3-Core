@@ -246,3 +246,5 @@ See `LICENSE.md` in the repository root.
 - Correct the docstring to match the actual behavior of the function
 
 - Add a unit test for the edge case when the list is empty
+
+- Adjust the queue size to prevent drops under burst traffic
