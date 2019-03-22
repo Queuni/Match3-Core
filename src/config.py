@@ -176,3 +176,5 @@
 # Clean up the formatting and run the linter on the changed files
 
 # Improve test coverage for the helpers module to above 90%
+
+# Correct the comparison that was using the wrong operator

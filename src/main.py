@@ -164,3 +164,5 @@
 # Clean up duplicate logic between the sync and async code paths
 
 # Bump dependency to get the security fix for the reported CVE
+
+# Clean up duplicate logic between the sync and async code paths
