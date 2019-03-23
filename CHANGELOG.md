@@ -291,3 +291,6 @@
 
 ## 2019-03-21
 - Simplify the config validation by using a declarative schema
+
+## 2019-03-23
+- Bump the library version and pin the dependency in requirements
