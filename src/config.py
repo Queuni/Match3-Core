@@ -178,3 +178,5 @@
 # Improve test coverage for the helpers module to above 90%
 
 # Correct the comparison that was using the wrong operator
+
+# Fix the off-by-one error in the date range iterator

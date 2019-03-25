@@ -300,3 +300,6 @@
 
 ## 2019-03-25
 - Correct the logic that determined whether to use cache or not
+
+## 2019-03-25
+- Simplify the CLI by merging the two similar subcommands into one
