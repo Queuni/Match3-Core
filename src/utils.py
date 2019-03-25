@@ -168,3 +168,5 @@
 # Fix issue where empty input was not validated before passing to the parser
 
 # Adjust the queue size to prevent drops under burst traffic
+
+# Bump dependency to get the security fix for the reported CVE

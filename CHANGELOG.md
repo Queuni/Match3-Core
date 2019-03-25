@@ -294,3 +294,6 @@
 
 ## 2019-03-23
 - Bump the library version and pin the dependency in requirements
+
+## 2019-03-25
+- Adjust default timeout value to prevent premature connection drops
