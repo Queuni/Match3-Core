@@ -206,3 +206,5 @@
 # Fix race condition in the cache that could return stale data under load
 
 # Clean up the commented-out code that was left from debugging
+
+# Add a unit test for the edge case when the list is empty

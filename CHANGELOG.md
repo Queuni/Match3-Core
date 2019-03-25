@@ -297,3 +297,6 @@
 
 ## 2019-03-25
 - Adjust default timeout value to prevent premature connection drops
+
+## 2019-03-25
+- Correct the logic that determined whether to use cache or not
