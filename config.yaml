@@ -224,3 +224,5 @@
 # Bump version to 1.2.0 and add changelog entry for the new features
 
 # Simplify the CLI by merging the two similar subcommands into one
+
+# Remove the deprecated wrapper and use the library API directly
