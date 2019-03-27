@@ -250,3 +250,5 @@ See `LICENSE.md` in the repository root.
 - Adjust the queue size to prevent drops under burst traffic
 
 - Correct the docstring to match the actual behavior of the function
+
+- Handle timeout gracefully and return a clear error to the caller
