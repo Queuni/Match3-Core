@@ -252,3 +252,5 @@ See `LICENSE.md` in the repository root.
 - Correct the docstring to match the actual behavior of the function
 
 - Handle timeout gracefully and return a clear error to the caller
+
+- Bump dependency to get the security fix for the reported CVE
