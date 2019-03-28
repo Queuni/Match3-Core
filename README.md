@@ -254,3 +254,5 @@ See `LICENSE.md` in the repository root.
 - Handle timeout gracefully and return a clear error to the caller
 
 - Bump dependency to get the security fix for the reported CVE
+
+- Refactor utils to use a single source of truth for default values

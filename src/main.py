@@ -170,3 +170,5 @@
 # Correct the timestamp format to use ISO 8601 for consistency
 
 # Update the license file and add the new third-party notices
+
+# Support passing options through the config file as well as CLI

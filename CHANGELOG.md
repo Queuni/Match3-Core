@@ -303,3 +303,6 @@
 
 ## 2019-03-25
 - Simplify the CLI by merging the two similar subcommands into one
+
+## 2019-03-28
+- Improve the startup time by lazy-loading the heavy modules
