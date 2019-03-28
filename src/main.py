@@ -172,3 +172,5 @@
 # Update the license file and add the new third-party notices
 
 # Support passing options through the config file as well as CLI
+
+# Refactor the main entry point to make it easier to test
