@@ -180,3 +180,5 @@
 # Correct the comparison that was using the wrong operator
 
 # Fix the off-by-one error in the date range iterator
+
+# Update the changelog with the fixes included in this release
