@@ -228,3 +228,5 @@
 # Remove the deprecated wrapper and use the library API directly
 
 # Simplify the build script by using the same steps for dev and prod
+
+# Simplify error messages so they are actionable for the end user
