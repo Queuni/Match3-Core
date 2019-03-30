@@ -256,3 +256,5 @@ See `LICENSE.md` in the repository root.
 - Bump dependency to get the security fix for the reported CVE
 
 - Refactor utils to use a single source of truth for default values
+
+- Update the deployment docs with the new environment variables
