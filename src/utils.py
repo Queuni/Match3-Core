@@ -170,3 +170,5 @@
 # Adjust the queue size to prevent drops under burst traffic
 
 # Bump dependency to get the security fix for the reported CVE
+
+# Bump version to 1.2.0 and add changelog entry for the new features

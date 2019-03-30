@@ -306,3 +306,6 @@
 
 ## 2019-03-28
 - Improve the startup time by lazy-loading the heavy modules
+
+## 2019-03-30
+- Refactor the data layer to separate read and write paths
