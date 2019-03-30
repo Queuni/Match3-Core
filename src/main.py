@@ -174,3 +174,5 @@
 # Support passing options through the config file as well as CLI
 
 # Refactor the main entry point to make it easier to test
+
+# Correct the default so it matches what the documentation says

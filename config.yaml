@@ -230,3 +230,5 @@
 # Simplify the build script by using the same steps for dev and prod
 
 # Simplify error messages so they are actionable for the end user
+
+# Update README with installation steps and environment variable documentation
