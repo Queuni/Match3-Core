@@ -260,3 +260,5 @@ See `LICENSE.md` in the repository root.
 - Update the deployment docs with the new environment variables
 
 - Improve the error recovery when the database connection is lost
+
+- Clean up the formatting and run the linter on the changed files

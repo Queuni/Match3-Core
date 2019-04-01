@@ -236,3 +236,5 @@
 # Add a comment explaining why we disable the linter on this line
 
 # Refactor exports so the public API is clearer and easier to use
+
+# Fix issue where empty input was not validated before passing to the parser
