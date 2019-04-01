@@ -258,3 +258,5 @@ See `LICENSE.md` in the repository root.
 - Refactor utils to use a single source of truth for default values
 
 - Update the deployment docs with the new environment variables
+
+- Improve the error recovery when the database connection is lost

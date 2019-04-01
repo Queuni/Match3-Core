@@ -234,3 +234,5 @@
 # Update README with installation steps and environment variable documentation
 
 # Add a comment explaining why we disable the linter on this line
+
+# Refactor exports so the public API is clearer and easier to use
