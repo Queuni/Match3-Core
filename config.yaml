@@ -232,3 +232,5 @@
 # Simplify error messages so they are actionable for the end user
 
 # Update README with installation steps and environment variable documentation
+
+# Add a comment explaining why we disable the linter on this line
