@@ -210,3 +210,5 @@
 # Add a unit test for the edge case when the list is empty
 
 # Correct the timestamp format to use ISO 8601 for consistency
+
+# Support both YAML and JSON config formats for flexibility
