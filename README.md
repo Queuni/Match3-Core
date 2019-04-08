@@ -48,3 +48,5 @@ The codebase separates `Block` (core) from `BlockScript` (Unity); some game logi
 ## License
 
 See `LICENSE.md` in the repository root.
+
+- Refactor the main entry point to make it easier to test
