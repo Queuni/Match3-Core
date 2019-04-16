@@ -4,3 +4,5 @@
 # Simplify the config merge logic so overrides are predictable
 
 # Adjust the default concurrency limit based on load test results
+
+# Simplify the CLI by merging the two similar subcommands into one
