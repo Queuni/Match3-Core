@@ -52,3 +52,5 @@ See `LICENSE.md` in the repository root.
 - Refactor the main entry point to make it easier to test
 
 - Handle the case when the external service returns an empty list
+
+- Bump the Docker base image to get the latest security patches
