@@ -50,3 +50,5 @@ The codebase separates `Block` (core) from `BlockScript` (Unity); some game logi
 See `LICENSE.md` in the repository root.
 
 - Refactor the main entry point to make it easier to test
+
+- Handle the case when the external service returns an empty list
