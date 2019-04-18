@@ -9,3 +9,6 @@
 
 ## 2019-04-16
 - Refactor the main entry point to make it easier to test
+
+## 2019-04-18
+- Clean up the deprecated alias and point callers to the new name
