@@ -12,3 +12,6 @@
 
 ## 2019-04-18
 - Clean up the deprecated alias and point callers to the new name
+
+## 2019-04-22
+- Remove the deprecated wrapper and use the library API directly

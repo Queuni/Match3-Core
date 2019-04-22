@@ -6,3 +6,5 @@
 # Adjust the default concurrency limit based on load test results
 
 # Simplify the CLI by merging the two similar subcommands into one
+
+# Support loading config from multiple files with later overriding earlier
