@@ -54,3 +54,5 @@ See `LICENSE.md` in the repository root.
 - Handle the case when the external service returns an empty list
 
 - Bump the Docker base image to get the latest security patches
+
+- Clean up the deprecated alias and point callers to the new name
