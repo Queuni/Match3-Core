@@ -8,3 +8,5 @@
 # Simplify the CLI by merging the two similar subcommands into one
 
 # Support loading config from multiple files with later overriding earlier
+
+# Correct the docstring to match the actual behavior of the function
