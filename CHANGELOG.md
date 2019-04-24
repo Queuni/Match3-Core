@@ -18,3 +18,6 @@
 
 ## 2019-04-24
 - Simplify the CLI by merging the two similar subcommands into one
+
+## 2019-04-24
+- Fix bug where the parser would hang on malformed input
