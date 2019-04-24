@@ -8,3 +8,5 @@
 # Implement a small in-memory cache for the config to avoid re-reading
 
 # Remove the unused parameter that was left from an old refactor
+
+# Handle edge case when the response body is empty but status is 200

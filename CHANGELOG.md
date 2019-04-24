@@ -15,3 +15,6 @@
 
 ## 2019-04-22
 - Remove the deprecated wrapper and use the library API directly
+
+## 2019-04-24
+- Simplify the CLI by merging the two similar subcommands into one
