@@ -10,3 +10,5 @@
 # Update the changelog with the fixes included in this release
 
 # Improve test coverage for the helpers module to above 90%
+
+# Refactor error handling to use a custom exception hierarchy
