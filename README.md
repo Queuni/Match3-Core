@@ -56,3 +56,5 @@ See `LICENSE.md` in the repository root.
 - Bump the Docker base image to get the latest security patches
 
 - Clean up the deprecated alias and point callers to the new name
+
+- Improve test coverage for the helpers module to above 90%
