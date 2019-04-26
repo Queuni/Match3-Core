@@ -21,3 +21,6 @@
 
 ## 2019-04-24
 - Fix bug where the parser would hang on malformed input
+
+## 2019-04-26
+- Refactor exports so the public API is clearer and easier to use
