@@ -6,3 +6,5 @@
 # Correct the formula used for calculating the backoff delay
 
 # Simplify the auth flow by using a single token source
+
+# Simplify the validation flow by reusing the same schema

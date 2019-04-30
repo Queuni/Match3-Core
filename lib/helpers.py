@@ -12,3 +12,5 @@
 # Handle edge case when the response body is empty but status is 200
 
 # Remove the temporary debug endpoint before the release
+
+# Simplify the CLI by merging the two similar subcommands into one
