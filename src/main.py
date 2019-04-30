@@ -16,3 +16,5 @@
 # Implement request ID propagation for better tracing across services
 
 # Support environment-specific overrides via separate config files
+
+# Implement proper cleanup of resources when the process receives SIGTERM

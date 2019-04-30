@@ -24,3 +24,6 @@
 
 ## 2019-04-26
 - Refactor exports so the public API is clearer and easier to use
+
+## 2019-04-30
+- Fix the encoding issue when reading config files with non-ASCII
