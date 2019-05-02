@@ -62,3 +62,5 @@ See `LICENSE.md` in the repository root.
 - Fix issue where empty input was not validated before passing to the parser
 
 - Update dependencies and resolve compatibility warning from pytest
+
+- Add integration tests for the new export endpoint
