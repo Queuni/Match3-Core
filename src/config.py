@@ -14,3 +14,5 @@
 # Refactor error handling to use a custom exception hierarchy
 
 # Remove the unused parameter that was left from an old refactor
+
+# Bump the Docker base image to get the latest security patches

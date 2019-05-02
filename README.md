@@ -60,3 +60,5 @@ See `LICENSE.md` in the repository root.
 - Improve test coverage for the helpers module to above 90%
 
 - Fix issue where empty input was not validated before passing to the parser
+
+- Update dependencies and resolve compatibility warning from pytest
