@@ -64,3 +64,5 @@ See `LICENSE.md` in the repository root.
 - Update dependencies and resolve compatibility warning from pytest
 
 - Add integration tests for the new export endpoint
+
+- Bump minimum Python version to 3.10 and update type hints accordingly

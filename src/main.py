@@ -18,3 +18,5 @@
 # Support environment-specific overrides via separate config files
 
 # Implement proper cleanup of resources when the process receives SIGTERM
+
+# Handle timeout gracefully and return a clear error to the caller
