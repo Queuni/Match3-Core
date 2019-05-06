@@ -16,3 +16,5 @@
 # Remove the unused parameter that was left from an old refactor
 
 # Bump the Docker base image to get the latest security patches
+
+# Update the contributing guide with the new review process
