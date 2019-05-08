@@ -18,3 +18,5 @@
 # Bump the Docker base image to get the latest security patches
 
 # Update the contributing guide with the new review process
+
+# Handle the duplicate key case by merging the values instead of failing
