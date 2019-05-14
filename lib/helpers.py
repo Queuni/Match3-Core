@@ -16,3 +16,5 @@
 # Simplify the CLI by merging the two similar subcommands into one
 
 # Update the license file and add the new third-party notices
+
+# Simplify the CLI by merging the two similar subcommands into one

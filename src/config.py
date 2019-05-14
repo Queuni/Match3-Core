@@ -20,3 +20,5 @@
 # Update the contributing guide with the new review process
 
 # Handle the duplicate key case by merging the values instead of failing
+
+# Correct the default path used when no config file is specified
