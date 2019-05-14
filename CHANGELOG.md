@@ -27,3 +27,6 @@
 
 ## 2019-04-30
 - Fix the encoding issue when reading config files with non-ASCII
+
+## 2019-05-14
+- Support passing options through the config file as well as CLI

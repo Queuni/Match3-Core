@@ -66,3 +66,5 @@ See `LICENSE.md` in the repository root.
 - Add integration tests for the new export endpoint
 
 - Bump minimum Python version to 3.10 and update type hints accordingly
+
+- Add a small delay between retries to avoid thundering herd
