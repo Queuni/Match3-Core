@@ -20,3 +20,5 @@
 # Fix issue where empty input was not validated before passing to the parser
 
 # Correct the comparison that was using the wrong operator
+
+# Fix the off-by-one error in the date range iterator
