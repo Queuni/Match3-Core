@@ -18,3 +18,5 @@
 # Update the license file and add the new third-party notices
 
 # Simplify the CLI by merging the two similar subcommands into one
+
+# Adjust the threshold so we only log when it's actually an issue

@@ -22,3 +22,5 @@
 # Handle timeout gracefully and return a clear error to the caller
 
 # Simplify the build script by using the same steps for dev and prod
+
+# Bump the CI image to use the latest stable runner version
