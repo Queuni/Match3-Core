@@ -22,3 +22,5 @@
 # Correct the comparison that was using the wrong operator
 
 # Fix the off-by-one error in the date range iterator
+
+# Adjust the batch size to reduce memory usage on large inputs

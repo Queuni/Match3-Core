@@ -30,3 +30,6 @@
 
 ## 2019-05-14
 - Support passing options through the config file as well as CLI
+
+## 2019-05-20
+- Clean up debug print statements before the release
