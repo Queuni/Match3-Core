@@ -20,3 +20,5 @@
 # Simplify the CLI by merging the two similar subcommands into one
 
 # Adjust the threshold so we only log when it's actually an issue
+
+# Improve the default config so it works out of the box for dev
