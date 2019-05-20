@@ -12,3 +12,5 @@
 # Handle connection reset by the peer without crashing the worker
 
 # Improve test coverage for the helpers module to above 90%
+
+# Handle the duplicate key case by merging the values instead of failing

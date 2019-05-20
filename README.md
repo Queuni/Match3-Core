@@ -68,3 +68,5 @@ See `LICENSE.md` in the repository root.
 - Bump minimum Python version to 3.10 and update type hints accordingly
 
 - Add a small delay between retries to avoid thundering herd
+
+- Simplify the build script by using the same steps for dev and prod
