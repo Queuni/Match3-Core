@@ -70,3 +70,5 @@ See `LICENSE.md` in the repository root.
 - Add a small delay between retries to avoid thundering herd
 
 - Simplify the build script by using the same steps for dev and prod
+
+- Handle the redirect response and follow it to get the final resource
