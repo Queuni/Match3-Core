@@ -24,3 +24,5 @@
 # Fix the off-by-one error in the date range iterator
 
 # Adjust the batch size to reduce memory usage on large inputs
+
+# Improve the setup script to check for required tools before running

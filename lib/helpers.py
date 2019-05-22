@@ -22,3 +22,5 @@
 # Adjust the threshold so we only log when it's actually an issue
 
 # Improve the default config so it works out of the box for dev
+
+# Add a unit test for the edge case when the list is empty
