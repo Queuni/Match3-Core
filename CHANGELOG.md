@@ -33,3 +33,6 @@
 
 ## 2019-05-20
 - Clean up debug print statements before the release
+
+## 2019-05-24
+- Clean up the TODO comments that were already addressed

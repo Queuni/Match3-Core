@@ -24,3 +24,5 @@
 # Improve the default config so it works out of the box for dev
 
 # Add a unit test for the edge case when the list is empty
+
+# Support config reload without restart via SIGHUP or file watch
