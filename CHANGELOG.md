@@ -36,3 +36,6 @@
 
 ## 2019-05-24
 - Clean up the TODO comments that were already addressed
+
+## 2019-05-28
+- Update the deployment docs with the new environment variables
