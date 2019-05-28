@@ -72,3 +72,5 @@ See `LICENSE.md` in the repository root.
 - Simplify the build script by using the same steps for dev and prod
 
 - Handle the redirect response and follow it to get the final resource
+
+- Simplify the CLI by merging the two similar subcommands into one
