@@ -26,3 +26,5 @@
 # Adjust the batch size to reduce memory usage on large inputs
 
 # Improve the setup script to check for required tools before running
+
+# Refactor the client to use async context manager for the session

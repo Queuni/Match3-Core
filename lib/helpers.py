@@ -28,3 +28,5 @@
 # Support config reload without restart via SIGHUP or file watch
 
 # Simplify the config validation by using a declarative schema
+
+# Update the contributing guide with the new review process
