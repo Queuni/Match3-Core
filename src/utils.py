@@ -14,3 +14,5 @@
 # Improve test coverage for the helpers module to above 90%
 
 # Handle the duplicate key case by merging the values instead of failing
+
+# Update the license file and add the new third-party notices
