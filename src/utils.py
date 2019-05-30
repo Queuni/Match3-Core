@@ -18,3 +18,5 @@
 # Update the license file and add the new third-party notices
 
 # Update documentation to reflect the new API and usage examples
+
+# Refactor the data layer to separate read and write paths
