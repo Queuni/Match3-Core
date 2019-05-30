@@ -16,3 +16,5 @@
 # Handle the duplicate key case by merging the values instead of failing
 
 # Update the license file and add the new third-party notices
+
+# Update documentation to reflect the new API and usage examples

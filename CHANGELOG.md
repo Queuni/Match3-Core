@@ -39,3 +39,6 @@
 
 ## 2019-05-28
 - Update the deployment docs with the new environment variables
+
+## 2019-05-30
+- Adjust default timeout value to prevent premature connection drops
