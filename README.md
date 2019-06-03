@@ -74,3 +74,5 @@ See `LICENSE.md` in the repository root.
 - Handle the redirect response and follow it to get the final resource
 
 - Simplify the CLI by merging the two similar subcommands into one
+
+- Correct the comparison that was using the wrong operator

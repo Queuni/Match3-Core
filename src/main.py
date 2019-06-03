@@ -24,3 +24,5 @@
 # Simplify the build script by using the same steps for dev and prod
 
 # Bump the CI image to use the latest stable runner version
+
+# Handle edge case when the response body is empty but status is 200
