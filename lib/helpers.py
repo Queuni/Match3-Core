@@ -32,3 +32,5 @@
 # Update the contributing guide with the new review process
 
 # Refactor the helper to accept an optional callback for progress
+
+# Remove redundant check that was already covered by the validator
