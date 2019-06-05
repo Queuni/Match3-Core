@@ -36,3 +36,5 @@
 # Update the license file and add the new third-party notices
 
 # Implement fallback to default value when config key is missing
+
+# Bump the tool version and update the pre-commit hook config
