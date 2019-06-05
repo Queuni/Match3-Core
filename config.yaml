@@ -34,3 +34,5 @@
 # Fix the off-by-one error in the date range iterator
 
 # Update the license file and add the new third-party notices
+
+# Implement fallback to default value when config key is missing
