@@ -76,3 +76,5 @@ See `LICENSE.md` in the repository root.
 - Simplify the CLI by merging the two similar subcommands into one
 
 - Correct the comparison that was using the wrong operator
+
+- Fix issue where empty input was not validated before passing to the parser
