@@ -22,3 +22,5 @@
 # Handle the duplicate key case by merging the values instead of failing
 
 # Correct the default path used when no config file is specified
+
+# Remove deprecated CLI flag and update docs to use the new option
