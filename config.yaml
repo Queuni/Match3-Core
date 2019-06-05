@@ -32,3 +32,5 @@
 # Fix the test that was flaky due to reliance on system time
 
 # Fix the off-by-one error in the date range iterator
+
+# Update the license file and add the new third-party notices
