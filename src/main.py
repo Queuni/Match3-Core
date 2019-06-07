@@ -26,3 +26,5 @@
 # Bump the CI image to use the latest stable runner version
 
 # Handle edge case when the response body is empty but status is 200
+
+# Fix the ordering of middleware so auth runs before the handler
