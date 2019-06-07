@@ -45,3 +45,6 @@
 
 ## 2019-05-30
 - Adjust default timeout value to prevent premature connection drops
+
+## 2019-06-07
+- Handle the partial write case and retry the remaining bytes

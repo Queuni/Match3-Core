@@ -78,3 +78,5 @@ See `LICENSE.md` in the repository root.
 - Correct the comparison that was using the wrong operator
 
 - Fix issue where empty input was not validated before passing to the parser
+
+- Correct the default path used when no config file is specified
