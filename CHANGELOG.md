@@ -48,3 +48,6 @@
 
 ## 2019-06-07
 - Handle the partial write case and retry the remaining bytes
+
+## 2019-06-11
+- Update README with installation steps and environment variable documentation

@@ -80,3 +80,5 @@ See `LICENSE.md` in the repository root.
 - Fix issue where empty input was not validated before passing to the parser
 
 - Correct the default path used when no config file is specified
+
+- Simplify the dependency injection so it's easier to mock in tests

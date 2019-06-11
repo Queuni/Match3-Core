@@ -34,3 +34,5 @@
 # Refactor the helper to accept an optional callback for progress
 
 # Remove redundant check that was already covered by the validator
+
+# Adjust buffer size for the stream reader to reduce memory usage
