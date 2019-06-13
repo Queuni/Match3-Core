@@ -86,3 +86,5 @@ See `LICENSE.md` in the repository root.
 - Support both YAML and JSON config formats for flexibility
 
 - Support config reload without restart via SIGHUP or file watch
+
+- Handle missing optional field in the response without raising
