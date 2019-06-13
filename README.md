@@ -84,3 +84,5 @@ See `LICENSE.md` in the repository root.
 - Simplify the dependency injection so it's easier to mock in tests
 
 - Support both YAML and JSON config formats for flexibility
+
+- Support config reload without restart via SIGHUP or file watch
