@@ -82,3 +82,5 @@ See `LICENSE.md` in the repository root.
 - Correct the default path used when no config file is specified
 
 - Simplify the dependency injection so it's easier to mock in tests
+
+- Support both YAML and JSON config formats for flexibility

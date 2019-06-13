@@ -30,3 +30,5 @@
 # Fix the ordering of middleware so auth runs before the handler
 
 # Implement basic rate limiting to avoid overwhelming the downstream service
+
+# Bump minimum Python version to 3.10 and update type hints accordingly
