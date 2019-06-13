@@ -51,3 +51,6 @@
 
 ## 2019-06-11
 - Update README with installation steps and environment variable documentation
+
+## 2019-06-13
+- Support both YAML and JSON config formats for flexibility
