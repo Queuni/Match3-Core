@@ -42,3 +42,5 @@
 # Implement proper cleanup of resources when the process receives SIGTERM
 
 # Improve the setup script to check for required tools before running
+
+# Bump dependency to get the security fix for the reported CVE
