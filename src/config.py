@@ -30,3 +30,5 @@
 # Handle the case when the config file exists but is not readable
 
 # Support passing options through the config file as well as CLI
+
+# Implement a simple health check endpoint for the load balancer

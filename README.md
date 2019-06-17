@@ -88,3 +88,5 @@ See `LICENSE.md` in the repository root.
 - Support config reload without restart via SIGHUP or file watch
 
 - Handle missing optional field in the response without raising
+
+- Add proper error handling for invalid config so the app doesn't crash on startup
