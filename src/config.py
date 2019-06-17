@@ -28,3 +28,5 @@
 # Correct the docstring to match the actual behavior of the function
 
 # Handle the case when the config file exists but is not readable
+
+# Support passing options through the config file as well as CLI

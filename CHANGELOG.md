@@ -54,3 +54,6 @@
 
 ## 2019-06-13
 - Support both YAML and JSON config formats for flexibility
+
+## 2019-06-17
+- Improve the error recovery when the database connection is lost

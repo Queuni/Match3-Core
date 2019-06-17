@@ -36,3 +36,5 @@
 # Improve test coverage for the helpers module to above 90%
 
 # Remove hardcoded credentials and move to env-based configuration
+
+# Support loading config from multiple files with later overriding earlier
