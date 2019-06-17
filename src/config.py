@@ -26,3 +26,5 @@
 # Remove deprecated CLI flag and update docs to use the new option
 
 # Correct the docstring to match the actual behavior of the function
+
+# Handle the case when the config file exists but is not readable
