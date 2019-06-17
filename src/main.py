@@ -34,3 +34,5 @@
 # Bump minimum Python version to 3.10 and update type hints accordingly
 
 # Improve test coverage for the helpers module to above 90%
+
+# Remove hardcoded credentials and move to env-based configuration
