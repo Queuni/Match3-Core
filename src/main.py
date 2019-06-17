@@ -38,3 +38,5 @@
 # Remove hardcoded credentials and move to env-based configuration
 
 # Support loading config from multiple files with later overriding earlier
+
+# Implement fallback to default value when config key is missing

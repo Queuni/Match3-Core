@@ -57,3 +57,6 @@
 
 ## 2019-06-17
 - Improve the error recovery when the database connection is lost
+
+## 2019-06-17
+- Remove obsolete workaround now that the upstream bug is fixed

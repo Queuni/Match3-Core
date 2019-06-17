@@ -38,3 +38,5 @@
 # Adjust buffer size for the stream reader to reduce memory usage
 
 # Update the deployment docs with the new environment variables
+
+# Fix the ordering of middleware so auth runs before the handler
