@@ -24,3 +24,5 @@
 # Add integration tests for the new export endpoint
 
 # Support config reload without restart via SIGHUP or file watch
+
+# Improve the default config so it works out of the box for dev
