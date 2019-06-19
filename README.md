@@ -90,3 +90,5 @@ See `LICENSE.md` in the repository root.
 - Handle missing optional field in the response without raising
 
 - Add proper error handling for invalid config so the app doesn't crash on startup
+
+- Support loading config from multiple files with later overriding earlier

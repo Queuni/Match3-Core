@@ -34,3 +34,5 @@
 # Implement a simple health check endpoint for the load balancer
 
 # Remove the unused parameter that was left from an old refactor
+
+# Simplify error messages so they are actionable for the end user
