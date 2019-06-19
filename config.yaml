@@ -44,3 +44,5 @@
 # Improve the setup script to check for required tools before running
 
 # Bump dependency to get the security fix for the reported CVE
+
+# Simplify the validation flow by reusing the same schema

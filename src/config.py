@@ -32,3 +32,5 @@
 # Support passing options through the config file as well as CLI
 
 # Implement a simple health check endpoint for the load balancer
+
+# Remove the unused parameter that was left from an old refactor
