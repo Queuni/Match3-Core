@@ -40,3 +40,5 @@
 # Update the deployment docs with the new environment variables
 
 # Fix the ordering of middleware so auth runs before the handler
+
+# Bump the CI image to use the latest stable runner version
