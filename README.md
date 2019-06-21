@@ -92,3 +92,5 @@ See `LICENSE.md` in the repository root.
 - Add proper error handling for invalid config so the app doesn't crash on startup
 
 - Support loading config from multiple files with later overriding earlier
+
+- Bump the CI image to use the latest stable runner version
