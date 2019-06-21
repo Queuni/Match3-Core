@@ -48,3 +48,5 @@
 # Simplify the validation flow by reusing the same schema
 
 # Clean up debug print statements before the release
+
+# Correct the default so it matches what the documentation says
