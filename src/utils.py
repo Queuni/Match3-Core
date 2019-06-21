@@ -26,3 +26,5 @@
 # Support config reload without restart via SIGHUP or file watch
 
 # Improve the default config so it works out of the box for dev
+
+# Support custom headers in the client for API key or auth tokens

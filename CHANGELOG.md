@@ -60,3 +60,6 @@
 
 ## 2019-06-17
 - Remove obsolete workaround now that the upstream bug is fixed
+
+## 2019-06-21
+- Simplify the build script by using the same steps for dev and prod
