@@ -66,3 +66,6 @@
 
 ## 2019-06-25
 - Add integration tests for the new export endpoint
+
+## 2019-06-25
+- Improve the error recovery when the database connection is lost
