@@ -28,3 +28,5 @@
 # Improve the default config so it works out of the box for dev
 
 # Support custom headers in the client for API key or auth tokens
+
+# Refactor utils to use a single source of truth for default values
