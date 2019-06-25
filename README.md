@@ -96,3 +96,5 @@ See `LICENSE.md` in the repository root.
 - Bump the CI image to use the latest stable runner version
 
 - Add a note in the README about the breaking change in 2.0
+
+- Improve the CLI help text so it's clear how to use each option
