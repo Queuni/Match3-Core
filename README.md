@@ -94,3 +94,5 @@ See `LICENSE.md` in the repository root.
 - Support loading config from multiple files with later overriding earlier
 
 - Bump the CI image to use the latest stable runner version
+
+- Add a note in the README about the breaking change in 2.0
