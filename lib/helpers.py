@@ -44,3 +44,5 @@
 # Bump the CI image to use the latest stable runner version
 
 # Support environment-specific overrides via separate config files
+
+# Bump the dependency to fix the compatibility issue with Python 3.12
