@@ -63,3 +63,6 @@
 
 ## 2019-06-21
 - Simplify the build script by using the same steps for dev and prod
+
+## 2019-06-25
+- Add integration tests for the new export endpoint
