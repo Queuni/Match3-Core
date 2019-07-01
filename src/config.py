@@ -38,3 +38,5 @@
 # Simplify error messages so they are actionable for the end user
 
 # Bump the library version and pin the dependency in requirements
+
+# Clean up leftover code from the previous implementation

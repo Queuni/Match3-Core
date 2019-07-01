@@ -50,3 +50,5 @@
 # Clean up debug print statements before the release
 
 # Correct the default so it matches what the documentation says
+
+# Add a unit test for the edge case when the list is empty

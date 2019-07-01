@@ -48,3 +48,5 @@
 # Bump the dependency to fix the compatibility issue with Python 3.12
 
 # Fix the test that was flaky due to reliance on system time
+
+# Support both YAML and JSON config formats for flexibility
