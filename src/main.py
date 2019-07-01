@@ -44,3 +44,5 @@
 # Simplify the auth flow by using a single token source
 
 # Clean up the commented-out code that was left from debugging
+
+# Bump minimum Python version to 3.10 and update type hints accordingly

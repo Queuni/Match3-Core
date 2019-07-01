@@ -100,3 +100,5 @@ See `LICENSE.md` in the repository root.
 - Improve the CLI help text so it's clear how to use each option
 
 - Simplify the validation flow by reusing the same schema
+
+- Bump the CI image to use the latest stable runner version
