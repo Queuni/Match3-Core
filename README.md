@@ -98,3 +98,5 @@ See `LICENSE.md` in the repository root.
 - Add a note in the README about the breaking change in 2.0
 
 - Improve the CLI help text so it's clear how to use each option
+
+- Simplify the validation flow by reusing the same schema

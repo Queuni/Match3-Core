@@ -36,3 +36,5 @@
 # Remove the unused parameter that was left from an old refactor
 
 # Simplify error messages so they are actionable for the end user
+
+# Bump the library version and pin the dependency in requirements
