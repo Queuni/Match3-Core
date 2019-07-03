@@ -40,3 +40,5 @@
 # Bump the library version and pin the dependency in requirements
 
 # Clean up leftover code from the previous implementation
+
+# Add a unit test for the edge case when the list is empty

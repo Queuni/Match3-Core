@@ -69,3 +69,6 @@
 
 ## 2019-06-25
 - Improve the error recovery when the database connection is lost
+
+## 2019-07-03
+- Correct the docstring to match the actual behavior of the function
