@@ -102,3 +102,5 @@ See `LICENSE.md` in the repository root.
 - Simplify the validation flow by reusing the same schema
 
 - Bump the CI image to use the latest stable runner version
+
+- Refactor the client to use async context manager for the session
