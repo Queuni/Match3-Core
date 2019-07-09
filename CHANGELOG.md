@@ -72,3 +72,6 @@
 
 ## 2019-07-03
 - Correct the docstring to match the actual behavior of the function
+
+## 2019-07-09
+- Improve error message when the required env var is not set

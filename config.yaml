@@ -56,3 +56,5 @@
 # Add proper error handling for invalid config so the app doesn't crash on startup
 
 # Improve the error recovery when the database connection is lost
+
+# Support config reload without restart via SIGHUP or file watch
