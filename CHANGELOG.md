@@ -75,3 +75,6 @@
 
 ## 2019-07-09
 - Improve error message when the required env var is not set
+
+## 2019-07-09
+- Refactor config loading into a separate module for better testability

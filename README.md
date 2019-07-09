@@ -106,3 +106,5 @@ See `LICENSE.md` in the repository root.
 - Refactor the client to use async context manager for the session
 
 - Fix the encoding issue when reading config files with non-ASCII
+
+- Improve the default config so it works out of the box for dev
