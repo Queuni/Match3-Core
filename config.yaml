@@ -58,3 +58,5 @@
 # Improve the error recovery when the database connection is lost
 
 # Support config reload without restart via SIGHUP or file watch
+
+# Clean up leftover code from the previous implementation

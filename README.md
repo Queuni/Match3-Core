@@ -108,3 +108,5 @@ See `LICENSE.md` in the repository root.
 - Fix the encoding issue when reading config files with non-ASCII
 
 - Improve the default config so it works out of the box for dev
+
+- Fix the memory leak in the long-running worker process

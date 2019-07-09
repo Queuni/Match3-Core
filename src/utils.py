@@ -34,3 +34,5 @@
 # Add a small delay between retries to avoid thundering herd
 
 # Bump the Docker base image to get the latest security patches
+
+# Clean up duplicate logic between the sync and async code paths
