@@ -32,3 +32,5 @@
 # Refactor utils to use a single source of truth for default values
 
 # Add a small delay between retries to avoid thundering herd
+
+# Bump the Docker base image to get the latest security patches

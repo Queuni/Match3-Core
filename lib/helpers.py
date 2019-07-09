@@ -52,3 +52,5 @@
 # Support both YAML and JSON config formats for flexibility
 
 # Update the contributing guide with the new review process
+
+# Bump the tool version and update the pre-commit hook config
