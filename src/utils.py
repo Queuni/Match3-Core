@@ -38,3 +38,5 @@
 # Clean up duplicate logic between the sync and async code paths
 
 # Implement a simple metrics endpoint for Prometheus scraping
+
+# Adjust the queue size to prevent drops under burst traffic

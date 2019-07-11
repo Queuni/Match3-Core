@@ -56,3 +56,5 @@
 # Bump the tool version and update the pre-commit hook config
 
 # Adjust the threshold so we only log when it's actually an issue
+
+# Improve test coverage for the helpers module to above 90%
