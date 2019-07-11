@@ -110,3 +110,5 @@ See `LICENSE.md` in the repository root.
 - Improve the default config so it works out of the box for dev
 
 - Fix the memory leak in the long-running worker process
+
+- Implement retry logic for the API client when the remote returns 5xx
