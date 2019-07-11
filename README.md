@@ -112,3 +112,5 @@ See `LICENSE.md` in the repository root.
 - Fix the memory leak in the long-running worker process
 
 - Implement retry logic for the API client when the remote returns 5xx
+
+- Correct the formula used for calculating the backoff delay

@@ -40,3 +40,5 @@
 # Implement a simple metrics endpoint for Prometheus scraping
 
 # Adjust the queue size to prevent drops under burst traffic
+
+# Add integration tests for the new export endpoint
