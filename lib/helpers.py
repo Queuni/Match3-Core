@@ -54,3 +54,5 @@
 # Update the contributing guide with the new review process
 
 # Bump the tool version and update the pre-commit hook config
+
+# Adjust the threshold so we only log when it's actually an issue
