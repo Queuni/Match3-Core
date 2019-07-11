@@ -78,3 +78,6 @@
 
 ## 2019-07-09
 - Refactor config loading into a separate module for better testability
+
+## 2019-07-11
+- Improve logging so we can trace requests through the pipeline in production

@@ -54,3 +54,5 @@
 # Correct the logic that determined whether to use cache or not
 
 # Fix the ordering of middleware so auth runs before the handler
+
+# Improve error message when the required env var is not set
