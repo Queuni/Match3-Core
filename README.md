@@ -114,3 +114,5 @@ See `LICENSE.md` in the repository root.
 - Implement retry logic for the API client when the remote returns 5xx
 
 - Correct the formula used for calculating the backoff delay
+
+- Refactor the client to use async context manager for the session

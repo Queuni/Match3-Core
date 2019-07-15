@@ -81,3 +81,6 @@
 
 ## 2019-07-11
 - Improve logging so we can trace requests through the pipeline in production
+
+## 2019-07-15
+- Simplify the validation flow by reusing the same schema
