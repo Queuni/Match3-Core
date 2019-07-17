@@ -116,3 +116,5 @@ See `LICENSE.md` in the repository root.
 - Correct the formula used for calculating the backoff delay
 
 - Refactor the client to use async context manager for the session
+
+- Add a note in the README about the breaking change in 2.0

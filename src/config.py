@@ -48,3 +48,5 @@
 # Clean up the commented-out code that was left from debugging
 
 # Fix the ordering of middleware so auth runs before the handler
+
+# Remove redundant check that was already covered by the validator
