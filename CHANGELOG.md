@@ -84,3 +84,6 @@
 
 ## 2019-07-15
 - Simplify the validation flow by reusing the same schema
+
+## 2019-07-17
+- Update the API docs with the new query parameters and examples

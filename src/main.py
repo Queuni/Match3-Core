@@ -56,3 +56,5 @@
 # Fix the ordering of middleware so auth runs before the handler
 
 # Improve error message when the required env var is not set
+
+# Refactor the main entry point to make it easier to test
