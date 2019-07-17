@@ -87,3 +87,6 @@
 
 ## 2019-07-17
 - Update the API docs with the new query parameters and examples
+
+## 2019-07-17
+- Support passing options through the config file as well as CLI
