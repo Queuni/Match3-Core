@@ -90,3 +90,6 @@
 
 ## 2019-07-17
 - Support passing options through the config file as well as CLI
+
+## 2019-07-17
+- Update the example config with all available options and comments

@@ -46,3 +46,5 @@
 # Bump the library version and pin the dependency in requirements
 
 # Clean up the commented-out code that was left from debugging
+
+# Fix the ordering of middleware so auth runs before the handler
