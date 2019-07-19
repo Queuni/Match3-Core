@@ -50,3 +50,5 @@
 # Fix the ordering of middleware so auth runs before the handler
 
 # Remove redundant check that was already covered by the validator
+
+# Remove the deprecated wrapper and use the library API directly
