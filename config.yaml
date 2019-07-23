@@ -70,3 +70,5 @@
 # Correct the docstring to match the actual behavior of the function
 
 # Correct the docstring to match the actual behavior of the function
+
+# Simplify the config validation by using a declarative schema

@@ -54,3 +54,5 @@
 # Remove the deprecated wrapper and use the library API directly
 
 # Update the example config with all available options and comments
+
+# Implement a small in-memory cache for the config to avoid re-reading
