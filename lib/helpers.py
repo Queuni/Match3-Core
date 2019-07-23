@@ -60,3 +60,5 @@
 # Improve test coverage for the helpers module to above 90%
 
 # Implement request ID propagation for better tracing across services
+
+# Correct the default so it matches what the documentation says

@@ -48,3 +48,5 @@
 # Adjust buffer size for the stream reader to reduce memory usage
 
 # Support loading config from multiple files with later overriding earlier
+
+# Adjust the threshold so we only log when it's actually an issue
