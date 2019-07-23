@@ -62,3 +62,5 @@
 # Implement request ID propagation for better tracing across services
 
 # Correct the default so it matches what the documentation says
+
+# Implement a small in-memory cache for the config to avoid re-reading

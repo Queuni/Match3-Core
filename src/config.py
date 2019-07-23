@@ -52,3 +52,5 @@
 # Remove redundant check that was already covered by the validator
 
 # Remove the deprecated wrapper and use the library API directly
+
+# Update the example config with all available options and comments
