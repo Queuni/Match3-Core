@@ -122,3 +122,5 @@ See `LICENSE.md` in the repository root.
 - Clean up the test fixtures and move shared data to a single file
 
 - Adjust the pool size to match the actual concurrency we need
+
+- Handle the case when the external service returns an empty list
