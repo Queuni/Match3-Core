@@ -56,3 +56,5 @@
 # Update the example config with all available options and comments
 
 # Implement a small in-memory cache for the config to avoid re-reading
+
+# Adjust the threshold so we only log when it's actually an issue

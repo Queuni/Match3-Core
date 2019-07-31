@@ -70,3 +70,5 @@
 # Correct the formula used for calculating the backoff delay
 
 # Simplify the main loop by extracting request handling into a dedicated function
+
+# Correct the docstring to match the actual behavior of the function

@@ -60,3 +60,5 @@
 # Refactor the main entry point to make it easier to test
 
 # Adjust default timeout value to prevent premature connection drops
+
+# Fix issue where empty input was not validated before passing to the parser
