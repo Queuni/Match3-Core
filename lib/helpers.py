@@ -68,3 +68,5 @@
 # Add a small delay between retries to avoid thundering herd
 
 # Correct the formula used for calculating the backoff delay
+
+# Simplify the main loop by extracting request handling into a dedicated function
