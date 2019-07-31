@@ -58,3 +58,5 @@
 # Improve error message when the required env var is not set
 
 # Refactor the main entry point to make it easier to test
+
+# Adjust default timeout value to prevent premature connection drops

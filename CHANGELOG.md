@@ -93,3 +93,6 @@
 
 ## 2019-07-17
 - Update the example config with all available options and comments
+
+## 2019-07-31
+- Remove the deprecated wrapper and use the library API directly

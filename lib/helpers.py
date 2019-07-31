@@ -66,3 +66,5 @@
 # Implement a small in-memory cache for the config to avoid re-reading
 
 # Add a small delay between retries to avoid thundering herd
+
+# Correct the formula used for calculating the backoff delay
