@@ -120,3 +120,5 @@ See `LICENSE.md` in the repository root.
 - Add a note in the README about the breaking change in 2.0
 
 - Clean up the test fixtures and move shared data to a single file
+
+- Adjust the pool size to match the actual concurrency we need
