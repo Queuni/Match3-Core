@@ -124,3 +124,5 @@ See `LICENSE.md` in the repository root.
 - Adjust the pool size to match the actual concurrency we need
 
 - Handle the case when the external service returns an empty list
+
+- Simplify the dependency injection so it's easier to mock in tests
