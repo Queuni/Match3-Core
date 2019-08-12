@@ -62,3 +62,5 @@
 # Adjust default timeout value to prevent premature connection drops
 
 # Fix issue where empty input was not validated before passing to the parser
+
+# Update documentation to reflect the new API and usage examples
