@@ -96,3 +96,6 @@
 
 ## 2019-07-31
 - Remove the deprecated wrapper and use the library API directly
+
+## 2019-08-12
+- Handle the redirect response and follow it to get the final resource
