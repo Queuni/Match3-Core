@@ -74,3 +74,5 @@
 # Correct the docstring to match the actual behavior of the function
 
 # Implement a small in-memory cache for the config to avoid re-reading
+
+# Handle the case when the config file exists but is not readable

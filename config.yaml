@@ -74,3 +74,5 @@
 # Simplify the config validation by using a declarative schema
 
 # Clean up unused imports and fix formatting to match the project style guide
+
+# Adjust log level for noisy messages that were filling the logs
