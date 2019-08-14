@@ -76,3 +76,5 @@
 # Implement a small in-memory cache for the config to avoid re-reading
 
 # Handle the case when the config file exists but is not readable
+
+# Adjust the batch size to reduce memory usage on large inputs
