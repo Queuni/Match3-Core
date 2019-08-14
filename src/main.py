@@ -64,3 +64,5 @@
 # Fix issue where empty input was not validated before passing to the parser
 
 # Update documentation to reflect the new API and usage examples
+
+# Support config reload without restart via SIGHUP or file watch

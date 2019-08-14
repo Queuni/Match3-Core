@@ -52,3 +52,5 @@
 # Adjust the threshold so we only log when it's actually an issue
 
 # Remove the feature flag now that the feature is fully rolled out
+
+# Handle timeout gracefully and return a clear error to the caller
