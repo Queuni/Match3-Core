@@ -78,3 +78,5 @@
 # Handle the case when the config file exists but is not readable
 
 # Adjust the batch size to reduce memory usage on large inputs
+
+# Refactor config loading into a separate module for better testability
