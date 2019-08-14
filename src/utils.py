@@ -56,3 +56,5 @@
 # Handle timeout gracefully and return a clear error to the caller
 
 # Correct the comparison that was using the wrong operator
+
+# Add validation for the config schema before applying settings

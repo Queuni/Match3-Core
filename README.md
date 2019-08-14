@@ -126,3 +126,5 @@ See `LICENSE.md` in the repository root.
 - Handle the case when the external service returns an empty list
 
 - Simplify the dependency injection so it's easier to mock in tests
+
+- Improve test coverage for the helpers module to above 90%

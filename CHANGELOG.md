@@ -99,3 +99,6 @@
 
 ## 2019-08-12
 - Handle the redirect response and follow it to get the final resource
+
+## 2019-08-14
+- Fix the off-by-one error in the date range iterator
