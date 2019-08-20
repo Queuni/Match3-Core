@@ -78,3 +78,5 @@
 # Adjust log level for noisy messages that were filling the logs
 
 # Fix the memory leak in the long-running worker process
+
+# Fix incorrect type hint that was causing mypy to fail in CI
