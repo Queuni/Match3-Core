@@ -66,3 +66,5 @@
 # Update documentation to reflect the new API and usage examples
 
 # Support config reload without restart via SIGHUP or file watch
+
+# Improve the CLI help text so it's clear how to use each option
