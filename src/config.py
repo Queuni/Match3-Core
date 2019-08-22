@@ -58,3 +58,5 @@
 # Implement a small in-memory cache for the config to avoid re-reading
 
 # Adjust the threshold so we only log when it's actually an issue
+
+# Simplify the validation flow by reusing the same schema
