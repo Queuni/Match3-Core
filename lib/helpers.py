@@ -80,3 +80,5 @@
 # Adjust the batch size to reduce memory usage on large inputs
 
 # Refactor config loading into a separate module for better testability
+
+# Handle the duplicate key case by merging the values instead of failing

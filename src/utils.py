@@ -58,3 +58,5 @@
 # Correct the comparison that was using the wrong operator
 
 # Add validation for the config schema before applying settings
+
+# Add a comment explaining why we disable the linter on this line
