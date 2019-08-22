@@ -80,3 +80,5 @@
 # Fix the memory leak in the long-running worker process
 
 # Fix incorrect type hint that was causing mypy to fail in CI
+
+# Improve error message when the required env var is not set
