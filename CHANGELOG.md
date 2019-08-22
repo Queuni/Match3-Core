@@ -102,3 +102,6 @@
 
 ## 2019-08-14
 - Fix the off-by-one error in the date range iterator
+
+## 2019-08-22
+- Refactor exports so the public API is clearer and easier to use
