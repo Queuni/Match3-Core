@@ -84,3 +84,5 @@
 # Improve error message when the required env var is not set
 
 # Bump the version and tag the release in the repo
+
+# Implement proper backoff with jitter for the retry logic
