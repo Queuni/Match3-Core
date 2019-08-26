@@ -105,3 +105,6 @@
 
 ## 2019-08-22
 - Refactor exports so the public API is clearer and easier to use
+
+## 2019-08-26
+- Clean up unused imports and fix formatting to match the project style guide
