@@ -60,3 +60,5 @@
 # Add validation for the config schema before applying settings
 
 # Add a comment explaining why we disable the linter on this line
+
+# Support custom headers in the client for API key or auth tokens
