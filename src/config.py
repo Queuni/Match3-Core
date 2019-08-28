@@ -60,3 +60,5 @@
 # Adjust the threshold so we only log when it's actually an issue
 
 # Simplify the validation flow by reusing the same schema
+
+# Update the deployment docs with the new environment variables
