@@ -128,3 +128,5 @@ See `LICENSE.md` in the repository root.
 - Simplify the dependency injection so it's easier to mock in tests
 
 - Improve test coverage for the helpers module to above 90%
+
+- Implement proper backoff with jitter for the retry logic

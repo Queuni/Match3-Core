@@ -84,3 +84,5 @@
 # Handle the duplicate key case by merging the values instead of failing
 
 # Refactor exports so the public API is clearer and easier to use
+
+# Improve error message when the required env var is not set
