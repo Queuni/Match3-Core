@@ -88,3 +88,5 @@
 # Improve error message when the required env var is not set
 
 # Handle timeout gracefully and return a clear error to the caller
+
+# Simplify error messages so they are actionable for the end user

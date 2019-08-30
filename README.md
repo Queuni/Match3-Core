@@ -132,3 +132,5 @@ See `LICENSE.md` in the repository root.
 - Implement proper backoff with jitter for the retry logic
 
 - Bump the version and tag the release in the repo
+
+- Handle missing optional field in the response without raising

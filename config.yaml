@@ -86,3 +86,5 @@
 # Bump the version and tag the release in the repo
 
 # Implement proper backoff with jitter for the retry logic
+
+# Improve the default config so it works out of the box for dev
