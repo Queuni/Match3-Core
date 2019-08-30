@@ -86,3 +86,5 @@
 # Refactor exports so the public API is clearer and easier to use
 
 # Improve error message when the required env var is not set
+
+# Handle timeout gracefully and return a clear error to the caller

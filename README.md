@@ -130,3 +130,5 @@ See `LICENSE.md` in the repository root.
 - Improve test coverage for the helpers module to above 90%
 
 - Implement proper backoff with jitter for the retry logic
+
+- Bump the version and tag the release in the repo
