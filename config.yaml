@@ -88,3 +88,5 @@
 # Implement proper backoff with jitter for the retry logic
 
 # Improve the default config so it works out of the box for dev
+
+# Adjust the batch size to reduce memory usage on large inputs
