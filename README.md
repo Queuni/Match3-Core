@@ -136,3 +136,5 @@ See `LICENSE.md` in the repository root.
 - Handle missing optional field in the response without raising
 
 - Update the changelog with the fixes included in this release
+
+- Bump the CI image to use the latest stable runner version
