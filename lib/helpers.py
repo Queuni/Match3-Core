@@ -92,3 +92,5 @@
 # Simplify error messages so they are actionable for the end user
 
 # Update the changelog with the fixes included in this release
+
+# Improve error message when the required env var is not set

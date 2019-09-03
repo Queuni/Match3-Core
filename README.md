@@ -134,3 +134,5 @@ See `LICENSE.md` in the repository root.
 - Bump the version and tag the release in the repo
 
 - Handle missing optional field in the response without raising
+
+- Update the changelog with the fixes included in this release
