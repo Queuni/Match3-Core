@@ -108,3 +108,6 @@
 
 ## 2019-08-26
 - Clean up unused imports and fix formatting to match the project style guide
+
+## 2019-09-03
+- Bump minimum Python version to 3.10 and update type hints accordingly
