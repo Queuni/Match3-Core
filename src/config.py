@@ -66,3 +66,5 @@
 # Remove redundant check that was already covered by the validator
 
 # Fix the test that was flaky due to reliance on system time
+
+# Refactor error handling to use a custom exception hierarchy

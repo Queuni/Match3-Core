@@ -98,3 +98,5 @@
 # Fix race condition in the cache that could return stale data under load
 
 # Refactor the data layer to separate read and write paths
+
+# Support passing secrets via a separate file for security
