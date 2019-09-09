@@ -114,3 +114,6 @@
 
 ## 2019-09-03
 - Remove the feature flag now that the feature is fully rolled out
+
+## 2019-09-09
+- Update the deployment docs with the new environment variables
