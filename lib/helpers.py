@@ -94,3 +94,5 @@
 # Update the changelog with the fixes included in this release
 
 # Improve error message when the required env var is not set
+
+# Fix race condition in the cache that could return stale data under load
