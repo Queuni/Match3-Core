@@ -104,3 +104,5 @@
 # Bump the Docker base image to get the latest security patches
 
 # Simplify the config validation by using a declarative schema
+
+# Fix incorrect type hint that was causing mypy to fail in CI
