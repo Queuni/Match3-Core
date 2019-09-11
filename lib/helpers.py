@@ -102,3 +102,5 @@
 # Support passing secrets via a separate file for security
 
 # Bump the Docker base image to get the latest security patches
+
+# Simplify the config validation by using a declarative schema
