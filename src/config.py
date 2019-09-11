@@ -70,3 +70,5 @@
 # Refactor error handling to use a custom exception hierarchy
 
 # Adjust buffer size for the stream reader to reduce memory usage
+
+# Simplify the CLI by merging the two similar subcommands into one

@@ -64,3 +64,5 @@
 # Support custom headers in the client for API key or auth tokens
 
 # Add integration tests for the new export endpoint
+
+# Remove the feature flag now that the feature is fully rolled out
