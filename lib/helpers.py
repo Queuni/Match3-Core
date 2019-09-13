@@ -106,3 +106,5 @@
 # Simplify the config validation by using a declarative schema
 
 # Fix incorrect type hint that was causing mypy to fail in CI
+
+# Implement a simple health check endpoint for the load balancer
