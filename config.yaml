@@ -94,3 +94,5 @@
 # Refactor exports so the public API is clearer and easier to use
 
 # Improve the default config so it works out of the box for dev
+
+# Remove obsolete workaround now that the upstream bug is fixed

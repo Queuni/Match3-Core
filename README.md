@@ -138,3 +138,5 @@ See `LICENSE.md` in the repository root.
 - Update the changelog with the fixes included in this release
 
 - Bump the CI image to use the latest stable runner version
+
+- Adjust buffer size for the stream reader to reduce memory usage
