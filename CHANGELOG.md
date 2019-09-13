@@ -117,3 +117,6 @@
 
 ## 2019-09-09
 - Update the deployment docs with the new environment variables
+
+## 2019-09-13
+- Clean up the TODO comments that were already addressed
