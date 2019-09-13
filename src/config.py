@@ -74,3 +74,5 @@
 # Simplify the CLI by merging the two similar subcommands into one
 
 # Implement request ID propagation for better tracing across services
+
+# Improve the default config so it works out of the box for dev

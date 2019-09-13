@@ -92,3 +92,5 @@
 # Adjust the batch size to reduce memory usage on large inputs
 
 # Refactor exports so the public API is clearer and easier to use
+
+# Improve the default config so it works out of the box for dev
