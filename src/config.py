@@ -80,3 +80,5 @@
 # Remove the temporary debug endpoint before the release
 
 # Improve the startup time by lazy-loading the heavy modules
+
+# Simplify the config validation by using a declarative schema

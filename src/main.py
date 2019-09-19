@@ -74,3 +74,5 @@
 # Handle the redirect response and follow it to get the final resource
 
 # Support custom headers in the client for API key or auth tokens
+
+# Remove obsolete workaround now that the upstream bug is fixed
