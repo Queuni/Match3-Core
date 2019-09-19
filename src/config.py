@@ -78,3 +78,5 @@
 # Improve the default config so it works out of the box for dev
 
 # Remove the temporary debug endpoint before the release
+
+# Improve the startup time by lazy-loading the heavy modules

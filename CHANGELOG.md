@@ -123,3 +123,6 @@
 
 ## 2019-09-19
 - Clean up the commented-out code that was left from debugging
+
+## 2019-09-19
+- Add a smoke test that runs in CI to catch obvious regressions
