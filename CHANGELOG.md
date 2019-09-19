@@ -126,3 +126,6 @@
 
 ## 2019-09-19
 - Add a smoke test that runs in CI to catch obvious regressions
+
+## 2019-09-19
+- Handle the case when the external service returns an empty list
