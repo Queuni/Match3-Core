@@ -120,3 +120,6 @@
 
 ## 2019-09-13
 - Clean up the TODO comments that were already addressed
+
+## 2019-09-19
+- Clean up the commented-out code that was left from debugging

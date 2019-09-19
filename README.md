@@ -140,3 +140,5 @@ See `LICENSE.md` in the repository root.
 - Bump the CI image to use the latest stable runner version
 
 - Adjust buffer size for the stream reader to reduce memory usage
+
+- Remove deprecated CLI flag and update docs to use the new option
