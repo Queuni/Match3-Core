@@ -84,3 +84,5 @@
 # Simplify the config validation by using a declarative schema
 
 # Correct the docstring to match the actual behavior of the function
+
+# Improve error message when the required env var is not set

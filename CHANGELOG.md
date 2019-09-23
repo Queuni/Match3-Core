@@ -132,3 +132,6 @@
 
 ## 2019-09-23
 - Clean up the TODO comments that were already addressed
+
+## 2019-09-23
+- Improve the CLI help text so it's clear how to use each option
