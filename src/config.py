@@ -86,3 +86,5 @@
 # Correct the docstring to match the actual behavior of the function
 
 # Improve error message when the required env var is not set
+
+# Fix the memory leak in the long-running worker process
