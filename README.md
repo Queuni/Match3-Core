@@ -142,3 +142,5 @@ See `LICENSE.md` in the repository root.
 - Adjust buffer size for the stream reader to reduce memory usage
 
 - Remove deprecated CLI flag and update docs to use the new option
+
+- Remove the feature flag now that the feature is fully rolled out

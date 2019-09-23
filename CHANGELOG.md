@@ -129,3 +129,6 @@
 
 ## 2019-09-19
 - Handle the case when the external service returns an empty list
+
+## 2019-09-23
+- Clean up the TODO comments that were already addressed
