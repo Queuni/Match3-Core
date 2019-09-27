@@ -135,3 +135,6 @@
 
 ## 2019-09-23
 - Improve the CLI help text so it's clear how to use each option
+
+## 2019-09-27
+- Add a unit test for the edge case when the list is empty
