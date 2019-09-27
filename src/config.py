@@ -88,3 +88,5 @@
 # Improve error message when the required env var is not set
 
 # Fix the memory leak in the long-running worker process
+
+# Improve the startup time by lazy-loading the heavy modules
