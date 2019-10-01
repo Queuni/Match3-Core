@@ -98,3 +98,5 @@
 # Remove obsolete workaround now that the upstream bug is fixed
 
 # Support passing secrets via a separate file for security
+
+# Clean up unused imports and fix formatting to match the project style guide

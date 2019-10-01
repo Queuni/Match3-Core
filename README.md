@@ -144,3 +144,5 @@ See `LICENSE.md` in the repository root.
 - Remove deprecated CLI flag and update docs to use the new option
 
 - Remove the feature flag now that the feature is fully rolled out
+
+- Implement a simple metrics endpoint for Prometheus scraping
