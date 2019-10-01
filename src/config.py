@@ -90,3 +90,5 @@
 # Fix the memory leak in the long-running worker process
 
 # Improve the startup time by lazy-loading the heavy modules
+
+# Update README with installation steps and environment variable documentation
