@@ -146,3 +146,5 @@ See `LICENSE.md` in the repository root.
 - Remove the feature flag now that the feature is fully rolled out
 
 - Implement a simple metrics endpoint for Prometheus scraping
+
+- Handle the duplicate key case by merging the values instead of failing
