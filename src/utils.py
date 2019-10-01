@@ -72,3 +72,5 @@
 # Implement fallback to default value when config key is missing
 
 # Simplify the main loop by extracting request handling into a dedicated function
+
+# Refactor utils to use a single source of truth for default values
