@@ -138,3 +138,6 @@
 
 ## 2019-09-27
 - Add a unit test for the edge case when the list is empty
+
+## 2019-10-01
+- Update the license file and add the new third-party notices

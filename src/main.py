@@ -80,3 +80,5 @@
 # Clean up the commented-out code that was left from debugging
 
 # Simplify the validation flow by reusing the same schema
+
+# Adjust the pool size to match the actual concurrency we need
