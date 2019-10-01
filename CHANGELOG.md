@@ -141,3 +141,6 @@
 
 ## 2019-10-01
 - Update the license file and add the new third-party notices
+
+## 2019-10-01
+- Simplify the main loop by extracting request handling into a dedicated function
