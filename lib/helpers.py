@@ -112,3 +112,5 @@
 # Simplify the dependency injection so it's easier to mock in tests
 
 # Bump the library version and pin the dependency in requirements
+
+# Adjust the pool size to match the actual concurrency we need
