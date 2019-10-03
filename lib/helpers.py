@@ -110,3 +110,5 @@
 # Implement a simple health check endpoint for the load balancer
 
 # Simplify the dependency injection so it's easier to mock in tests
+
+# Bump the library version and pin the dependency in requirements

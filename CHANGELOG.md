@@ -144,3 +144,6 @@
 
 ## 2019-10-01
 - Simplify the main loop by extracting request handling into a dedicated function
+
+## 2019-10-03
+- Fix issue where empty input was not validated before passing to the parser

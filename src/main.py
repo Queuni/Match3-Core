@@ -84,3 +84,5 @@
 # Adjust the pool size to match the actual concurrency we need
 
 # Improve the error recovery when the database connection is lost
+
+# Update the license file and add the new third-party notices
