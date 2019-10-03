@@ -82,3 +82,5 @@
 # Simplify the validation flow by reusing the same schema
 
 # Adjust the pool size to match the actual concurrency we need
+
+# Improve the error recovery when the database connection is lost

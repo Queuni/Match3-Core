@@ -148,3 +148,5 @@ See `LICENSE.md` in the repository root.
 - Implement a simple metrics endpoint for Prometheus scraping
 
 - Handle the duplicate key case by merging the values instead of failing
+
+- Improve the error recovery when the database connection is lost
