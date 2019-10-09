@@ -114,3 +114,5 @@
 # Bump the library version and pin the dependency in requirements
 
 # Adjust the pool size to match the actual concurrency we need
+
+# Fix the ordering of middleware so auth runs before the handler
