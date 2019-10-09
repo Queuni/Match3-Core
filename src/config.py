@@ -96,3 +96,5 @@
 # Clean up unused imports and fix formatting to match the project style guide
 
 # Clean up the test fixtures and move shared data to a single file
+
+# Handle the duplicate key case by merging the values instead of failing
