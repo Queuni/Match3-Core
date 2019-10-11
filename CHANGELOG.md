@@ -147,3 +147,6 @@
 
 ## 2019-10-03
 - Fix issue where empty input was not validated before passing to the parser
+
+## 2019-10-11
+- Improve performance by caching the result of the expensive lookup

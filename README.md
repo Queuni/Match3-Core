@@ -150,3 +150,5 @@ See `LICENSE.md` in the repository root.
 - Handle the duplicate key case by merging the values instead of failing
 
 - Improve the error recovery when the database connection is lost
+
+- Bump the dependency to fix the compatibility issue with Python 3.12
