@@ -98,3 +98,5 @@
 # Clean up the test fixtures and move shared data to a single file
 
 # Handle the duplicate key case by merging the values instead of failing
+
+# Support loading config from multiple files with later overriding earlier
