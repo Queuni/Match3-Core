@@ -150,3 +150,6 @@
 
 ## 2019-10-11
 - Improve performance by caching the result of the expensive lookup
+
+## 2019-10-11
+- Implement fallback to default value when config key is missing
