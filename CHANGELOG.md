@@ -156,3 +156,6 @@
 
 ## 2019-10-15
 - Improve error message when the required env var is not set
+
+## 2019-10-15
+- Remove the unused parameter that was left from an old refactor

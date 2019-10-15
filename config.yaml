@@ -114,3 +114,5 @@
 # Handle the redirect response and follow it to get the final resource
 
 # Handle connection reset by the peer without crashing the worker
+
+# Correct the docstring to match the actual behavior of the function
