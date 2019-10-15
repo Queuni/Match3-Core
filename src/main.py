@@ -86,3 +86,5 @@
 # Improve the error recovery when the database connection is lost
 
 # Update the license file and add the new third-party notices
+
+# Fix the ordering of middleware so auth runs before the handler
