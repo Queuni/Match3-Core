@@ -153,3 +153,6 @@
 
 ## 2019-10-11
 - Implement fallback to default value when config key is missing
+
+## 2019-10-15
+- Improve error message when the required env var is not set
