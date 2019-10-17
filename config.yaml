@@ -116,3 +116,5 @@
 # Handle connection reset by the peer without crashing the worker
 
 # Correct the docstring to match the actual behavior of the function
+
+# Bump the dependency to fix the compatibility issue with Python 3.12
