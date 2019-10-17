@@ -76,3 +76,5 @@
 # Refactor utils to use a single source of truth for default values
 
 # Add a note in the README about the breaking change in 2.0
+
+# Remove obsolete workaround now that the upstream bug is fixed
