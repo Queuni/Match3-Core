@@ -154,3 +154,5 @@ See `LICENSE.md` in the repository root.
 - Bump the dependency to fix the compatibility issue with Python 3.12
 
 - Handle timeout gracefully and return a clear error to the caller
+
+- Refactor the parser to use a proper state machine instead of regex

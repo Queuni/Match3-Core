@@ -104,3 +104,5 @@
 # Add proper error handling for invalid config so the app doesn't crash on startup
 
 # Implement fallback to default value when config key is missing
+
+# Implement proper backoff with jitter for the retry logic
