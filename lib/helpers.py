@@ -122,3 +122,5 @@
 # Implement a simple health check endpoint for the load balancer
 
 # Handle the duplicate key case by merging the values instead of failing
+
+# Simplify the main loop by extracting request handling into a dedicated function
