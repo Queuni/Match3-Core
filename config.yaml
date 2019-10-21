@@ -120,3 +120,5 @@
 # Bump the dependency to fix the compatibility issue with Python 3.12
 
 # Correct the timestamp format to use ISO 8601 for consistency
+
+# Implement retry logic for the API client when the remote returns 5xx
