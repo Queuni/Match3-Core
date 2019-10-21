@@ -120,3 +120,5 @@
 # Add proper error handling for invalid config so the app doesn't crash on startup
 
 # Implement a simple health check endpoint for the load balancer
+
+# Handle the duplicate key case by merging the values instead of failing

@@ -156,3 +156,5 @@ See `LICENSE.md` in the repository root.
 - Handle timeout gracefully and return a clear error to the caller
 
 - Refactor the parser to use a proper state machine instead of regex
+
+- Improve the default config so it works out of the box for dev

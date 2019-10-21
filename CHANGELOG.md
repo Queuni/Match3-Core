@@ -159,3 +159,6 @@
 
 ## 2019-10-15
 - Remove the unused parameter that was left from an old refactor
+
+## 2019-10-21
+- Correct the logic that determined whether to use cache or not
