@@ -118,3 +118,5 @@
 # Fix the ordering of middleware so auth runs before the handler
 
 # Add proper error handling for invalid config so the app doesn't crash on startup
+
+# Implement a simple health check endpoint for the load balancer

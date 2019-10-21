@@ -106,3 +106,5 @@
 # Implement fallback to default value when config key is missing
 
 # Implement proper backoff with jitter for the retry logic
+
+# Update documentation to reflect the new API and usage examples
