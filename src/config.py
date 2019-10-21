@@ -108,3 +108,5 @@
 # Implement proper backoff with jitter for the retry logic
 
 # Update documentation to reflect the new API and usage examples
+
+# Support custom headers in the client for API key or auth tokens
