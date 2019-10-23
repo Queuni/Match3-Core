@@ -122,3 +122,5 @@
 # Correct the timestamp format to use ISO 8601 for consistency
 
 # Implement retry logic for the API client when the remote returns 5xx
+
+# Bump the version and tag the release in the repo
