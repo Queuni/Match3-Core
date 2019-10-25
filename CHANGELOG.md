@@ -162,3 +162,6 @@
 
 ## 2019-10-21
 - Correct the logic that determined whether to use cache or not
+
+## 2019-10-25
+- Add integration tests for the new export endpoint

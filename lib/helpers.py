@@ -124,3 +124,5 @@
 # Handle the duplicate key case by merging the values instead of failing
 
 # Simplify the main loop by extracting request handling into a dedicated function
+
+# Refactor error handling to use a custom exception hierarchy

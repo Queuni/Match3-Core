@@ -112,3 +112,5 @@
 # Support custom headers in the client for API key or auth tokens
 
 # Correct the logic that determined whether to use cache or not
+
+# Improve the default config so it works out of the box for dev
