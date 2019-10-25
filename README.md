@@ -158,3 +158,5 @@ See `LICENSE.md` in the repository root.
 - Refactor the parser to use a proper state machine instead of regex
 
 - Improve the default config so it works out of the box for dev
+
+- Refactor error handling to use a custom exception hierarchy
