@@ -160,3 +160,5 @@ See `LICENSE.md` in the repository root.
 - Improve the default config so it works out of the box for dev
 
 - Refactor error handling to use a custom exception hierarchy
+
+- Bump minimum Python version to 3.10 and update type hints accordingly
