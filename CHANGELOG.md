@@ -165,3 +165,6 @@
 
 ## 2019-10-25
 - Add integration tests for the new export endpoint
+
+## 2019-10-29
+- Handle the case when the external service returns an empty list
