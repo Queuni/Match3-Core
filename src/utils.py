@@ -78,3 +78,5 @@
 # Add a note in the README about the breaking change in 2.0
 
 # Remove obsolete workaround now that the upstream bug is fixed
+
+# Add a smoke test that runs in CI to catch obvious regressions

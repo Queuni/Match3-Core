@@ -126,3 +126,5 @@
 # Simplify the main loop by extracting request handling into a dedicated function
 
 # Refactor error handling to use a custom exception hierarchy
+
+# Update the contributing guide with the new review process
