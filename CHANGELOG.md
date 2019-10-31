@@ -171,3 +171,6 @@
 
 ## 2019-10-31
 - Refactor the data layer to separate read and write paths
+
+## 2019-10-31
+- Handle connection reset by the peer without crashing the worker

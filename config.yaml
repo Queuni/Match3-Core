@@ -128,3 +128,5 @@
 # Bump the CI image to use the latest stable runner version
 
 # Remove the unused parameter that was left from an old refactor
+
+# Clean up duplicate logic between the sync and async code paths

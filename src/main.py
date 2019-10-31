@@ -90,3 +90,5 @@
 # Fix the ordering of middleware so auth runs before the handler
 
 # Correct the docstring to match the actual behavior of the function
+
+# Bump dependency to get the security fix for the reported CVE
