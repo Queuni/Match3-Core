@@ -126,3 +126,5 @@
 # Bump the version and tag the release in the repo
 
 # Bump the CI image to use the latest stable runner version
+
+# Remove the unused parameter that was left from an old refactor

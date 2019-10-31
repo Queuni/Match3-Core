@@ -114,3 +114,5 @@
 # Correct the logic that determined whether to use cache or not
 
 # Improve the default config so it works out of the box for dev
+
+# Improve performance by caching the result of the expensive lookup
