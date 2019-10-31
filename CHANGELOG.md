@@ -168,3 +168,6 @@
 
 ## 2019-10-29
 - Handle the case when the external service returns an empty list
+
+## 2019-10-31
+- Refactor the data layer to separate read and write paths
