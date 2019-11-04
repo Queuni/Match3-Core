@@ -128,3 +128,5 @@
 # Refactor error handling to use a custom exception hierarchy
 
 # Update the contributing guide with the new review process
+
+# Refactor the main entry point to make it easier to test

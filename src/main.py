@@ -92,3 +92,5 @@
 # Correct the docstring to match the actual behavior of the function
 
 # Bump dependency to get the security fix for the reported CVE
+
+# Simplify the build script by using the same steps for dev and prod
