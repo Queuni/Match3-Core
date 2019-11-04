@@ -162,3 +162,5 @@ See `LICENSE.md` in the repository root.
 - Refactor error handling to use a custom exception hierarchy
 
 - Bump minimum Python version to 3.10 and update type hints accordingly
+
+- Bump dependency to get the security fix for the reported CVE
