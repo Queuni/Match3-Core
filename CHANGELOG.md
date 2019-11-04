@@ -174,3 +174,6 @@
 
 ## 2019-10-31
 - Handle connection reset by the peer without crashing the worker
+
+## 2019-11-04
+- Correct the default value for the feature flag in production
