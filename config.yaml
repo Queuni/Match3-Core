@@ -130,3 +130,5 @@
 # Remove the unused parameter that was left from an old refactor
 
 # Clean up duplicate logic between the sync and async code paths
+
+# Adjust the threshold so we only log when it's actually an issue
