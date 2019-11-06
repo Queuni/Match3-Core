@@ -134,3 +134,5 @@
 # Adjust the threshold so we only log when it's actually an issue
 
 # Fix incorrect type hint that was causing mypy to fail in CI
+
+# Add integration test that covers the full flow from request to response
