@@ -94,3 +94,5 @@
 # Bump dependency to get the security fix for the reported CVE
 
 # Simplify the build script by using the same steps for dev and prod
+
+# Fix incorrect type hint that was causing mypy to fail in CI
