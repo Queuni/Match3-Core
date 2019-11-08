@@ -96,3 +96,5 @@
 # Simplify the build script by using the same steps for dev and prod
 
 # Fix incorrect type hint that was causing mypy to fail in CI
+
+# Correct the logic that determined whether to use cache or not

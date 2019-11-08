@@ -136,3 +136,5 @@
 # Fix incorrect type hint that was causing mypy to fail in CI
 
 # Add integration test that covers the full flow from request to response
+
+# Adjust default timeout value to prevent premature connection drops

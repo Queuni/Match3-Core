@@ -166,3 +166,5 @@ See `LICENSE.md` in the repository root.
 - Bump dependency to get the security fix for the reported CVE
 
 - Remove the temporary debug endpoint before the release
+
+- Fix the encoding issue when reading config files with non-ASCII
