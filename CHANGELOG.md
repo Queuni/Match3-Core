@@ -177,3 +177,6 @@
 
 ## 2019-11-04
 - Correct the default value for the feature flag in production
+
+## 2019-11-12
+- Support passing options through the config file as well as CLI
