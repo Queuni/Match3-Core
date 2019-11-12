@@ -82,3 +82,5 @@
 # Add a smoke test that runs in CI to catch obvious regressions
 
 # Clean up unused imports and fix formatting to match the project style guide
+
+# Adjust the pool size to match the actual concurrency we need

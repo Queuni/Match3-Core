@@ -132,3 +132,5 @@
 # Refactor the main entry point to make it easier to test
 
 # Simplify error messages so they are actionable for the end user
+
+# Simplify the config merge logic so overrides are predictable
