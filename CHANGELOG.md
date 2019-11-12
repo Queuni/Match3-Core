@@ -180,3 +180,6 @@
 
 ## 2019-11-12
 - Support passing options through the config file as well as CLI
+
+## 2019-11-12
+- Correct the formula used for calculating the backoff delay
