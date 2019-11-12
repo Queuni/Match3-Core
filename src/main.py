@@ -100,3 +100,5 @@
 # Correct the logic that determined whether to use cache or not
 
 # Fix race condition in the cache that could return stale data under load
+
+# Update dependencies and resolve compatibility warning from pytest

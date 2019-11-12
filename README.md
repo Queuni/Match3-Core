@@ -168,3 +168,5 @@ See `LICENSE.md` in the repository root.
 - Remove the temporary debug endpoint before the release
 
 - Fix the encoding issue when reading config files with non-ASCII
+
+- Bump the Docker base image to get the latest security patches
