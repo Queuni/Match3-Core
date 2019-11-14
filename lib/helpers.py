@@ -136,3 +136,5 @@
 # Simplify the config merge logic so overrides are predictable
 
 # Support config reload without restart via SIGHUP or file watch
+
+# Correct typo in the error message shown when validation fails

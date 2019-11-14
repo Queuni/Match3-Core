@@ -102,3 +102,5 @@
 # Fix race condition in the cache that could return stale data under load
 
 # Update dependencies and resolve compatibility warning from pytest
+
+# Improve error message when the required env var is not set
