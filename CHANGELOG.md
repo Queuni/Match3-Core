@@ -183,3 +183,6 @@
 
 ## 2019-11-12
 - Correct the formula used for calculating the backoff delay
+
+## 2019-11-14
+- Clean up debug print statements before the release
