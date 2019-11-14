@@ -186,3 +186,6 @@
 
 ## 2019-11-14
 - Clean up debug print statements before the release
+
+## 2019-11-14
+- Refactor the helper to accept an optional callback for progress
