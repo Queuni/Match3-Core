@@ -138,3 +138,5 @@
 # Support config reload without restart via SIGHUP or file watch
 
 # Correct typo in the error message shown when validation fails
+
+# Bump the tool version and update the pre-commit hook config
