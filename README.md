@@ -2,6 +2,10 @@
 
 A minimal Unity match-3 puzzle game template. Playable prototype with grid-based block matching, combos, chains, and local multiplayer support.
 
+## Screenshot
+
+![Game screenshot](tiny-flipon.gif)
+
 ## Overview
 
 This project is a self-contained Unity prototype containing core match-3 gameplay: a block grid, horizontal moves, combo and chain logic, objectives, and a simple AI opponent. The game scene is built at runtime; the `Game` scene is empty until Play.
